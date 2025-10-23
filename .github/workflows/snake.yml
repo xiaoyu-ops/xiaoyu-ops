@@ -1,0 +1,33 @@
+name: Generate Snake Animation
+
+on:
+  # 每天 0 点自动运行
+  schedule:
+    - cron: "0 0 * * *"
+  # 允许手动运行
+  workflow_dispatch: 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 步骤 1: 运行贪吃蛇生成器
+      - uses: Platane/snk@v3
+        with:
+          # 你的 GitHub 用户名，这里它会自动获取
+          github_user_name: ${{ github.repository_owner }}
+
+          # 生成的 svg 文件将保存在 dist 目录下
+          # 我们生成两个版本：一个亮色，一个暗色（和原图作者一样）
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 步骤 2: 将生成的 dist 文件夹推送到一个叫 output 的分支
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output # 分支名叫 output
+          build_dir: dist
+        env:
+          # 这里的 GITHUB_TOKEN 还是用你之前创建的那个
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
