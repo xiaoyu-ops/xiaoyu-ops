@@ -91,3 +91,9 @@ Vue                      1 repo              ███░░░░░░░░�
 
  Last Updated on 23/10/2025 17:35:27 UTC
 <!--END_SECTION:waka-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaoyu-ops/xiaoyu-ops/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaoyu-ops/xiaoyu-ops/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/xiaoyu-ops/xiaoyu-ops/output/github-contribution-grid-snake.svg" />
+</picture>
