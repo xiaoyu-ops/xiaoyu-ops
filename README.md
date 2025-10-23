@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hi there, I'm Zhuoyang Wu
 
-<!--
-**xiaoyu-ops/xiaoyu-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I'm also an aspiring **Go (Golang) Backend Developer** and I am actively seeking internship opportunities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 I’m currently building an end-to-end messy data cleaning architecture.
+* 🌱 I’m passionate about **Artificial Intelligence**, **Backend Development**, and **cutting-edge AI models**.
+* 📫 How to reach me: [wuzhy236@mail2.sysu.edu.cn](mailto:wuzhy236@mail2.sysu.edu.cn)
+
+### Connect with me
+
+[![Follow on X](https://img.shields.io/badge/Follow-@wzhuyng5940151-1DA1F2?style=for-the-badge&logo=x)](https://x.com/wzhuyng5940151)
+
+### 📊 My GitHub Stats
+
+![[xiaoyu-ops]'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&locale=cn)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyu-ops&layout=compact&theme=radical&locale=cn)
+![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
