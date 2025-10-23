@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Zhuoyang Wu
+### 👋 Hi there, I'm Xiaoyu.
 
 I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I'm also an aspiring **Go (Golang) Backend Developer** and I am actively seeking internship opportunities.
 
