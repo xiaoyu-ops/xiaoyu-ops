@@ -42,3 +42,4 @@ jobs:
           LANG_COUNT: "5"                 # 只显示前 5 门语言 (和示例图一致)
           SECTION_NAME: "waka"            # 必须和 3.2 步的 "START_SECTION:waka" 对应
           COMMIT_MESSAGE: "Update README stats" # 自动提交时的消息
+          SHOW_LOC_CHART: "false"
