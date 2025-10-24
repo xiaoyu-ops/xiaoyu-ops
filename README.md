@@ -19,6 +19,8 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
 
 **🐱 My GitHub Data** 
@@ -33,6 +35,45 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+🌆 Daytime                19 commits          ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+🌃 Evening                28 commits          ███████████░░░░░░░░░░░░░░   42.42 % 
+🌙 Night                  13 commits          █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   13 commits          █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Tuesday                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Wednesday                9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Thursday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Friday                   24 commits          █████████░░░░░░░░░░░░░░░░   36.36 % 
+Saturday                 5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Sunday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   22 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  22 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+os_3                     22 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  22 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -44,7 +85,7 @@ Vue                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 24/10/2025 16:21:34 UTC
+ Last Updated on 24/10/2025 20:19:26 UTC
 <!--END_SECTION:waka-->
 
 <picture>
