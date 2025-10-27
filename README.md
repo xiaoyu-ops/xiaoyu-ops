@@ -19,7 +19,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
 
@@ -62,16 +62,18 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   22 mins             █████████████████████████   100.00 % 
+Python                   22 mins             ██████████████████████░░░   87.42 % 
+Go                       3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-os_3                     22 mins             █████████████████████████   100.00 % 
+os_3                     22 mins             ██████████████████████░░░   87.42 % 
+Golang_Puzzlers          3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +86,7 @@ Vue                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 27/10/2025 16:23:21 UTC
+ Last Updated on 27/10/2025 20:17:03 UTC
 <!--END_SECTION:waka-->
 
 <picture>
