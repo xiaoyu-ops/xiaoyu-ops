@@ -19,7 +19,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
 
@@ -62,18 +62,20 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   22 mins             ██████████████████████░░░   87.42 % 
-Go                       3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Python                   30 mins             ███████████████████░░░░░░   74.87 % 
+Go                       8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+VS Code                  41 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-os_3                     22 mins             ██████████████████████░░░   87.42 % 
-Golang_Puzzlers          3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+os_3                     22 mins             █████████████░░░░░░░░░░░░   53.84 % 
+Deduplication_framework  11 mins             ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+Golang_Puzzlers          8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +88,7 @@ Vue                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 28/10/2025 16:23:20 UTC
+ Last Updated on 28/10/2025 20:20:32 UTC
 <!--END_SECTION:waka-->
 
 <picture>
