@@ -19,7 +19,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
 
@@ -62,20 +62,24 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   30 mins             ███████████████████░░░░░░   74.87 % 
-Go                       8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+MATLAB                   42 mins             ███████████░░░░░░░░░░░░░░   45.31 % 
+Python                   31 mins             █████████░░░░░░░░░░░░░░░░   34.21 % 
+Go                       9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-os_3                     22 mins             █████████████░░░░░░░░░░░░   53.84 % 
-Deduplication_framework  11 mins             ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-Golang_Puzzlers          8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+hw2                      47 mins             █████████████░░░░░░░░░░░░   51.07 % 
+os_3                     22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+Deduplication_framework  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Golang_Puzzlers          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+learning-algorithm       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +93,7 @@ Vue                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 29/10/2025 16:23:25 UTC
+ Last Updated on 29/10/2025 20:20:18 UTC
 <!--END_SECTION:waka-->
 
 <picture>
