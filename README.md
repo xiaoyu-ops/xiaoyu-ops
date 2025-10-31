@@ -62,24 +62,24 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 28 mins        ██████████████░░░░░░░░░░░   57.26 % 
-MATLAB                   42 mins             ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Go                       9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Python                   1 hr 6 mins         █████████████░░░░░░░░░░░░   50.13 % 
+MATLAB                   42 mins             ████████░░░░░░░░░░░░░░░░░   31.63 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Go                       9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hw2                      47 mins             ████████░░░░░░░░░░░░░░░░░   30.55 % 
-learning-algorithm       43 mins             ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-experiment-4             22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-os_3                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Deduplication_framework  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+hw2                      47 mins             █████████░░░░░░░░░░░░░░░░   35.65 % 
+learning-algorithm       43 mins             ████████░░░░░░░░░░░░░░░░░   33.05 % 
+experiment-4             22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Deduplication_framework  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Golang_Puzzlers          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 💻 Operating System: 
-Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,7 +93,7 @@ Vue                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 31/10/2025 16:21:52 UTC
+ Last Updated on 31/10/2025 20:19:40 UTC
 <!--END_SECTION:waka-->
 
 <picture>
