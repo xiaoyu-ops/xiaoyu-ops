@@ -19,13 +19,15 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2036%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 551.8 kB Used in GitHub's Storage 
+> 📦 561.4 kB Used in GitHub's Storage 
  > 
-> 🏆 90 Contributions in the Year 2025
+> 🏆 91 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,21 +38,21 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-🌆 Daytime                19 commits          ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-🌃 Evening                33 commits          ██████████░░░░░░░░░░░░░░░   41.77 % 
-🌙 Night                  20 commits          ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+🌞 Morning                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+🌆 Daytime                19 commits          ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+🌃 Evening                33 commits          ██████████░░░░░░░░░░░░░░░   41.25 % 
+🌙 Night                  21 commits          ███████░░░░░░░░░░░░░░░░░░   26.25 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   17 commits          █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-Tuesday                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Thursday                 10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Friday                   25 commits          ████████░░░░░░░░░░░░░░░░░   31.65 % 
-Saturday                 6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Sunday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Monday                   18 commits          ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Tuesday                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Thursday                 10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Friday                   25 commits          ████████░░░░░░░░░░░░░░░░░   31.25 % 
+Saturday                 6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Sunday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 ```
 
 
@@ -60,24 +62,24 @@ Sunday                   7 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 6 mins         █████████████░░░░░░░░░░░░   50.13 % 
-MATLAB                   42 mins             ████████░░░░░░░░░░░░░░░░░   31.63 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Go                       9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Python                   1 hr 6 mins         ████████████░░░░░░░░░░░░░   49.74 % 
+MATLAB                   42 mins             ████████░░░░░░░░░░░░░░░░░   31.39 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Go                       10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hw2                      47 mins             █████████░░░░░░░░░░░░░░░░   35.65 % 
-learning-algorithm       43 mins             ████████░░░░░░░░░░░░░░░░░   33.05 % 
-experiment-4             22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Deduplication_framework  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Golang_Puzzlers          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+hw2                      47 mins             █████████░░░░░░░░░░░░░░░░   35.37 % 
+learning-algorithm       43 mins             ████████░░░░░░░░░░░░░░░░░   32.79 % 
+experiment-4             22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Deduplication_framework  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Golang_Puzzlers          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 
 💻 Operating System: 
-Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +93,7 @@ Vue                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 02/11/2025 16:19:04 UTC
+ Last Updated on 02/11/2025 20:17:21 UTC
 <!--END_SECTION:waka-->
 
 <picture>
