@@ -19,15 +19,15 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 569.6 kB Used in GitHub's Storage 
+> 📦 553.0 kB Used in GitHub's Storage 
  > 
-> 🏆 100 Contributions in the Year 2025
+> 🏆 102 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,21 +38,21 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-🌆 Daytime                21 commits          ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-🌃 Evening                37 commits          ██████████░░░░░░░░░░░░░░░   41.57 % 
-🌙 Night                  21 commits          ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+🌞 Morning                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+🌆 Daytime                21 commits          ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+🌃 Evening                39 commits          ███████████░░░░░░░░░░░░░░   42.86 % 
+🌙 Night                  21 commits          ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   20 commits          ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Thursday                 11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Friday                   26 commits          ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-Saturday                 10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Sunday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Monday                   20 commits          █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Thursday                 11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Friday                   26 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Saturday                 10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Sunday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 ```
 
 
@@ -91,7 +91,7 @@ Vue                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 09/11/2025 12:32:07 UTC
+ Last Updated on 09/11/2025 16:19:06 UTC
 <!--END_SECTION:waka-->
 
 <picture>
