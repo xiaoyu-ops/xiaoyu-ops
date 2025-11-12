@@ -19,7 +19,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -62,23 +62,24 @@ Sunday                   9 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 44 mins        ████████████████░░░░░░░░░   63.02 % 
-TOML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Git Config               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Go                       10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Python                   1 hr 52 mins        ██████████████░░░░░░░░░░░   54.53 % 
+Text                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+TOML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Git Config               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Deduplication_framework  1 hr 24 mins        █████████████░░░░░░░░░░░░   51.36 % 
-experiment-4             35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-codex                    34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Golang_Puzzlers          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Deduplication_framework  1 hr 26 mins        ███████████░░░░░░░░░░░░░░   42.06 % 
+讲座复现                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+experiment-4             35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+codex                    34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Golang_Puzzlers          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 💻 Operating System: 
-Windows                  2 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +93,7 @@ Vue                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 12/11/2025 12:38:04 UTC
+ Last Updated on 12/11/2025 20:20:26 UTC
 <!--END_SECTION:waka-->
 
 <picture>
