@@ -19,8 +19,6 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%202%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
@@ -93,7 +91,7 @@ Vue                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 16/11/2025 12:32:23 UTC
+ Last Updated on 16/11/2025 16:19:21 UTC
 <!--END_SECTION:waka-->
 
 <picture>
