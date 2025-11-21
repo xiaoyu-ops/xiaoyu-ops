@@ -62,23 +62,19 @@ Sunday                   9 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 54 mins        ███████████████░░░░░░░░░░   59.44 % 
-C                        52 mins             ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Python                   1 hr 51 mins        ████████████████████████░   96.19 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-吴卓阳-23318046-深度学习作业2     1 hr 32 mins        ████████████░░░░░░░░░░░░░   48.07 % 
-os_4                     1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   35.21 % 
-Deduplication_framework  23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-codex                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+吴卓阳-23318046-深度学习作业2     1 hr 32 mins        ████████████████████░░░░░   79.78 % 
+Deduplication_framework  23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
 
 💻 Operating System: 
-Windows                  3 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +88,7 @@ Vue                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 21/11/2025 16:22:45 UTC
+ Last Updated on 21/11/2025 20:20:30 UTC
 <!--END_SECTION:waka-->
 
 <picture>
