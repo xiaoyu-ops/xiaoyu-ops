@@ -25,7 +25,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 
 **🐱 My GitHub Data** 
 
-> 📦 576.5 kB Used in GitHub's Storage 
+> 📦 577.5 kB Used in GitHub's Storage 
  > 
 > 🏆 163 Contributions in the Year 2025
  > 
@@ -89,7 +89,7 @@ Vue                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 26/11/2025 04:24:42 UTC
+ Last Updated on 26/11/2025 08:24:57 UTC
 <!--END_SECTION:waka-->
 
 <picture>
