@@ -85,15 +85,16 @@ Windows                  11 hrs 39 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ██████████████████░░░░░░░   70.00 % 
-Jupyter Notebook         2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   7 repos             ████████████████░░░░░░░░░   63.64 % 
+Jupyter Notebook         2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
 
 
- Last Updated on 06/12/2025 12:34:16 UTC
+ Last Updated on 06/12/2025 16:20:33 UTC
 <!--END_SECTION:waka-->
 
 <picture>
