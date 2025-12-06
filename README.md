@@ -21,7 +21,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -62,24 +62,24 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-YAML                     3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-JSON                     2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Bash                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Java                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Python                   1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   32.32 % 
+Bash                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+JSON                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Java                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+CSV                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  5 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Deduplication_framework  7 hrs 57 mins       █████████████████░░░░░░░░   68.26 % 
-net                      2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-experiment-6             48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-数据库                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-os_5                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+net                      2 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.23 % 
+Deduplication_framework  2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.37 % 
+experiment-6             48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+数据库                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+os_5                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 💻 Operating System: 
-Windows                  11 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +94,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2025 16:20:33 UTC
+ Last Updated on 06/12/2025 20:19:30 UTC
 <!--END_SECTION:waka-->
 
 <picture>
