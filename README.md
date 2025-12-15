@@ -19,13 +19,13 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 878.6 kB Used in GitHub's Storage 
+> 📦 991.6 kB Used in GitHub's Storage 
  > 
 > 🏆 466 Contributions in the Year 2025
  > 
@@ -62,24 +62,24 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     51 mins             ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-Go                       48 mins             ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-Python                   27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Bash                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Go                       48 mins             ████████░░░░░░░░░░░░░░░░░   30.09 % 
+Python                   46 mins             ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+Bash                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Batchfile                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Deduplication_framework  1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   33.78 % 
-os_6                     56 mins             ████████░░░░░░░░░░░░░░░░░   30.71 % 
-learning-algorithm       40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-net                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-leetcode                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+os_6                     56 mins             █████████░░░░░░░░░░░░░░░░   35.27 % 
+learning-algorithm       40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+local_ai                 33 mins             █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+net                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+leetcode                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 💻 Operating System: 
-Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +94,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2025 16:28:17 UTC
+ Last Updated on 15/12/2025 20:21:45 UTC
 <!--END_SECTION:waka-->
 
 <picture>
