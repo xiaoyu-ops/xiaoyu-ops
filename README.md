@@ -62,24 +62,23 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       48 mins             ████████░░░░░░░░░░░░░░░░░   30.09 % 
-Python                   46 mins             ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-Bash                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Batchfile                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Python                   46 mins             ████████░░░░░░░░░░░░░░░░░   32.73 % 
+Go                       40 mins             ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+Bash                     25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Batchfile                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-os_6                     56 mins             █████████░░░░░░░░░░░░░░░░   35.27 % 
-learning-algorithm       40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-local_ai                 33 mins             █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-net                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-leetcode                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+os_6                     56 mins             ██████████░░░░░░░░░░░░░░░   39.52 % 
+learning-algorithm       40 mins             ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+local_ai                 33 mins             ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+net                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 
 💻 Operating System: 
-Windows                  2 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +93,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2025 16:27:06 UTC
+ Last Updated on 16/12/2025 20:22:09 UTC
 <!--END_SECTION:waka-->
 
 <picture>
