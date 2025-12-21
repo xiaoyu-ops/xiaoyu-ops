@@ -62,23 +62,22 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 41 mins             ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-Go                       40 mins             ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-Python                   33 mins             ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-Batchfile                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Markdown                 41 mins             ██████████░░░░░░░░░░░░░░░   40.48 % 
+Python                   33 mins             ████████░░░░░░░░░░░░░░░░░   32.15 % 
+Batchfile                10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Git Config               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Outpatient-System        46 mins             ████████░░░░░░░░░░░░░░░░░   32.81 % 
-learning-algorithm       40 mins             ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-local_ai                 33 mins             ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-电商                       22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Outpatient-System        46 mins             ███████████░░░░░░░░░░░░░░   45.66 % 
+local_ai                 33 mins             ████████░░░░░░░░░░░░░░░░░   32.27 % 
+电商                       22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
 
 💻 Operating System: 
-Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,7 +92,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/12/2025 16:21:29 UTC
+ Last Updated on 21/12/2025 20:19:57 UTC
 <!--END_SECTION:waka-->
 
 <picture>
