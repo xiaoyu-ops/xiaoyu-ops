@@ -19,7 +19,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,23 +62,24 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Text                     1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   33.00 % 
-Python                   1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-Markdown                 1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Markdown                 1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   32.82 % 
+Python                   1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+Text                     1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-期末大作业                    2 hrs 47 mins       ███████████████░░░░░░░░░░   60.82 % 
-Outpatient-System        46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-深度学习期末作业                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-电商                       22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+期末大作业                    3 hrs 7 mins        ██████████████░░░░░░░░░░░   56.41 % 
+Outpatient-System        46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+深度学习期末作业                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+hm5-吴卓阳-23318046         33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+电商                       22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 
 💻 Operating System: 
-Windows                  4 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,7 +94,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/12/2025 16:24:50 UTC
+ Last Updated on 23/12/2025 20:20:51 UTC
 <!--END_SECTION:waka-->
 
 <picture>
