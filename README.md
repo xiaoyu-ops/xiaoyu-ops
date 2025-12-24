@@ -19,7 +19,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,7 +27,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 782 Contributions in the Year 2025
+> 🏆 790 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,21 +38,21 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                205 commits         ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-🌆 Daytime                114 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-🌃 Evening                369 commits         ████████████░░░░░░░░░░░░░   48.11 % 
-🌙 Night                  79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+🌞 Morning                205 commits         ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+🌆 Daytime                114 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+🌃 Evening                369 commits         ████████████░░░░░░░░░░░░░   47.61 % 
+🌙 Night                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   139 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Tuesday                  193 commits         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-Wednesday                174 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-Thursday                 141 commits         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Friday                   65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Saturday                 11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Sunday                   44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Monday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Tuesday                  193 commits         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+Wednesday                174 commits         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Thursday                 149 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Friday                   65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Saturday                 11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Sunday                   44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 ```
 
 
@@ -62,24 +62,24 @@ Sunday                   44 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   32.82 % 
-Python                   1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-Text                     1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Markdown                 1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   32.68 % 
+Python                   1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+Text                     1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Objective-C              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-期末大作业                    3 hrs 7 mins        ██████████████░░░░░░░░░░░   56.41 % 
-Outpatient-System        46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-深度学习期末作业                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-hm5-吴卓阳-23318046         33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-电商                       22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+期末大作业                    3 hrs 7 mins        █████████████░░░░░░░░░░░░   52.88 % 
+hm5-吴卓阳-23318046         55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Outpatient-System        46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+深度学习期末作业                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+电商                       22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 
 💻 Operating System: 
-Windows                  5 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +94,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2025 16:23:18 UTC
+ Last Updated on 24/12/2025 20:20:23 UTC
 <!--END_SECTION:waka-->
 
 <picture>
