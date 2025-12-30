@@ -62,24 +62,23 @@ Sunday                   82 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 1 min          ██████████████░░░░░░░░░░░   55.18 % 
-Python                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Objective-C              15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-CSV                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Markdown                 17 mins             ████████░░░░░░░░░░░░░░░░░   31.93 % 
+Objective-C              15 mins             ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+JSON                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Python                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+CSV                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 
 🔥 Editors: 
-VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hm5-吴卓阳-23318046         55 mins             ████████████░░░░░░░░░░░░░   49.80 % 
-期末大作业                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Deduplication_framework  19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-实验7-code                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-experiment-7             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+hm5-吴卓阳-23318046         22 mins             ██████████░░░░░░░░░░░░░░░   39.97 % 
+Deduplication_framework  20 mins             █████████░░░░░░░░░░░░░░░░   37.81 % 
+实验7-code                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+experiment-7             4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 
 💻 Operating System: 
-Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +93,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2025 16:25:02 UTC
+ Last Updated on 30/12/2025 20:21:29 UTC
 <!--END_SECTION:waka-->
 
 <picture>
