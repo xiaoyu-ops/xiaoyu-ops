@@ -62,22 +62,20 @@ Sunday                   82 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 20 mins             ████████████░░░░░░░░░░░░░   48.13 % 
-JSON                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Python                   8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-CSV                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Markdown                 20 mins             █████████████████░░░░░░░░   67.42 % 
+JSON                     8 mins              ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+PowerShell               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+VS Code                  30 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Deduplication_framework  30 mins             ██████████████████░░░░░░░   71.39 % 
-实验7-code                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-experiment-7             4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Deduplication_framework  30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +90,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 16:24:41 UTC
+ Last Updated on 01/01/2026 20:21:53 UTC
 <!--END_SECTION:waka-->
 
 <picture>
