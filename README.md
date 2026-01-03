@@ -19,7 +19,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,20 +62,20 @@ Sunday                   82 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 20 mins             █████████████████░░░░░░░░   67.15 % 
-JSON                     9 mins              ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-PowerShell               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Markdown                 41 mins             ████████████████████░░░░░   80.21 % 
+JSON                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.00 % 
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Deduplication_framework  30 mins             █████████████████████████   100.00 % 
+Deduplication_framework  51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +90,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 16:21:55 UTC
+ Last Updated on 03/01/2026 20:20:37 UTC
 <!--END_SECTION:waka-->
 
 <picture>
