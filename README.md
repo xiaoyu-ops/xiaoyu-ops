@@ -19,6 +19,8 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2055%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -33,6 +35,49 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                261 commits         ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+🌆 Daytime                164 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+🌃 Evening                506 commits         ████████████░░░░░░░░░░░░░   49.66 % 
+🌙 Night                  88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   175 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Tuesday                  233 commits         ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Wednesday                239 commits         ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+Thursday                 186 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Friday                   93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Saturday                 11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Sunday                   82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 20 mins             █████████████████░░░░░░░░   67.15 % 
+JSON                     9 mins              ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+PowerShell               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+
+🔥 Editors: 
+VS Code                  30 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Deduplication_framework  30 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  30 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -45,7 +90,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 12:36:26 UTC
+ Last Updated on 03/01/2026 16:21:55 UTC
 <!--END_SECTION:waka-->
 
 <picture>
