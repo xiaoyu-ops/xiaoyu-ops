@@ -27,7 +27,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 228 Contributions in the Year 2026
+> 🏆 235 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,21 +38,21 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                263 commits         █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-🌆 Daytime                195 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-🌃 Evening                678 commits         ██████████████░░░░░░░░░░░   54.46 % 
-🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+🌞 Morning                263 commits         █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+🌆 Daytime                195 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+🌃 Evening                678 commits         ██████████████░░░░░░░░░░░   54.15 % 
+🌙 Night                  116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   229 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Tuesday                  247 commits         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-Wednesday                266 commits         █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-Thursday                 232 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-Friday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Saturday                 65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Sunday                   96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Monday                   229 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Tuesday                  247 commits         █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Wednesday                266 commits         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Thursday                 232 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Friday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Saturday                 65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Sunday                   103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 ```
 
 
@@ -62,21 +62,21 @@ Sunday                   96 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 47 mins             █████████████████░░░░░░░░   66.69 % 
-Python                   21 mins             ████████░░░░░░░░░░░░░░░░░   30.18 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Markdown                 27 mins             █████████████░░░░░░░░░░░░   53.36 % 
+Python                   21 mins             ███████████░░░░░░░░░░░░░░   42.25 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+VS Code                  50 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Deduplication_framework  49 mins             █████████████████░░░░░░░░   69.34 % 
-os_8                     19 mins             ███████░░░░░░░░░░░░░░░░░░   27.67 % 
-SemDeDup                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Deduplication_framework  29 mins             ██████████████░░░░░░░░░░░   57.07 % 
+os_8                     19 mins             ██████████░░░░░░░░░░░░░░░   38.73 % 
+SemDeDup                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
+Windows                  50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +91,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2026 16:22:35 UTC
+ Last Updated on 10/01/2026 20:20:31 UTC
 <!--END_SECTION:waka-->
 
 <picture>
