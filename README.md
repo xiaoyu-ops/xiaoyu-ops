@@ -62,20 +62,16 @@ Sunday                   121 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 27 mins             ██████████████████████░░░   87.10 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Deduplication_framework  29 mins             ███████████████████████░░   93.15 % 
-SemDeDup                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +86,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/01/2026 16:25:29 UTC
+ Last Updated on 12/01/2026 20:23:09 UTC
 <!--END_SECTION:waka-->
 
 <picture>
