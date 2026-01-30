@@ -19,7 +19,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -62,21 +62,21 @@ Sunday                   121 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 40 mins       █████████████████░░░░░░░░   69.41 % 
-CSV                      1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Bash                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Python                   10 hrs 45 mins      █████████████████░░░░░░░░   69.91 % 
+CSV                      1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Bash                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Deduplication_framework  9 hrs 57 mins       ██████████████████░░░░░░░   71.51 % 
-agent                    3 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+Deduplication_framework  11 hrs 25 mins      ███████████████████░░░░░░   74.23 % 
+agent                    3 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
 
 💻 Operating System: 
-Windows                  13 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +91,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2026 16:37:27 UTC
+ Last Updated on 30/01/2026 20:28:17 UTC
 <!--END_SECTION:waka-->
 
 <picture>
