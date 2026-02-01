@@ -19,19 +19,17 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2053%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 293 Contributions in the Year 2026
+> 🏆 294 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
@@ -82,16 +80,16 @@ Windows                  18 hrs 12 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             █████████████████░░░░░░░░   69.23 % 
-Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   10 repos            ██████████████████░░░░░░░   71.43 % 
+Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 01/02/2026 12:44:09 UTC
+ Last Updated on 01/02/2026 16:27:49 UTC
 <!--END_SECTION:waka-->
 
 <picture>
