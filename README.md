@@ -19,7 +19,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -62,24 +62,24 @@ Sunday                   121 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 45 mins       ████████████████████░░░░░   79.49 % 
-JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   11 hrs 29 mins      ████████████████████░░░░░   81.35 % 
+JSON                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  14 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-agent                    6 hrs 35 mins       ███████████████░░░░░░░░░░   59.80 % 
-Deduplication_framework  3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-claude                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-agent_copy_by_github     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-hello_agents             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+agent                    7 hrs 28 mins       █████████████░░░░░░░░░░░░   52.98 % 
+Deduplication_framework  5 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.72 % 
+claude                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+hello_agents             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+agent_copy_by_github     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 💻 Operating System: 
-Windows                  11 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  14 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +94,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2026 13:04:32 UTC
+ Last Updated on 09/02/2026 20:36:57 UTC
 <!--END_SECTION:waka-->
 
 <picture>
