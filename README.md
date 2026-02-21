@@ -19,7 +19,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,22 +62,22 @@ Sunday                   126 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 17 mins       ████████████████░░░░░░░░░   62.17 % 
-Markdown                 34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Text                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-CSV                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Python                   2 hrs 9 mins        ███████████████████░░░░░░   77.03 % 
+CSV                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yu_agent                 1 hr 53 mins        █████████████░░░░░░░░░░░░   50.91 % 
-Deduplication_framework  1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   35.17 % 
-mmldedup                 30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+yu_agent                 1 hr 24 mins        █████████████░░░░░░░░░░░░   50.46 % 
+Deduplication_framework  1 hr 15 mins        ███████████░░░░░░░░░░░░░░   44.92 % 
+hello_agents             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 
 💻 Operating System: 
-Windows                  3 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +92,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2026 16:26:51 UTC
+ Last Updated on 21/02/2026 20:22:31 UTC
 <!--END_SECTION:waka-->
 
 <picture>
