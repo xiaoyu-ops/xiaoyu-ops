@@ -19,7 +19,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,24 +62,24 @@ Sunday                   126 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 54 mins       ███████████████░░░░░░░░░░   60.65 % 
-Markdown                 2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Git Config               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Text                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Python                   7 hrs 54 mins       █████████████░░░░░░░░░░░░   53.95 % 
+Markdown                 2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Git Config               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Bash                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yu_agent                 7 hrs 21 mins       █████████████░░░░░░░░░░░░   50.01 % 
-TrueSignal               4 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   30.68 % 
-Deduplication_framework  2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-text-去重相关                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-hello_agents             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+yu_agent                 5 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   39.80 % 
+TrueSignal               5 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.04 % 
+Deduplication_framework  2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+gpt                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+text-去重相关                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 💻 Operating System: 
-Windows                  14 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +94,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2026 16:24:16 UTC
+ Last Updated on 28/02/2026 20:23:37 UTC
 <!--END_SECTION:waka-->
 
 <picture>
