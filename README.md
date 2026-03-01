@@ -19,7 +19,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -27,7 +27,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 307 Contributions in the Year 2026
+> 🏆 310 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,21 +38,21 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                294 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-🌆 Daytime                297 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-🌃 Evening                851 commits         ████████████░░░░░░░░░░░░░   49.56 % 
-🌙 Night                  275 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+🌞 Morning                294 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+🌆 Daytime                297 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+🌃 Evening                851 commits         ████████████░░░░░░░░░░░░░   49.48 % 
+🌙 Night                  278 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   307 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Tuesday                  272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Wednesday                277 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Thursday                 303 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Friday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Saturday                 201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Sunday                   208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Monday                   310 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Tuesday                  272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Wednesday                277 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Thursday                 303 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Friday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Saturday                 201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Sunday                   208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
 ```
 
 
@@ -62,24 +62,24 @@ Sunday                   208 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 54 mins       █████████████░░░░░░░░░░░░   53.95 % 
-Markdown                 2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Git Config               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Bash                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Python                   5 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.27 % 
+Markdown                 2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Git Config               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yu_agent                 5 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   39.80 % 
-TrueSignal               5 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.04 % 
-Deduplication_framework  2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-gpt                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-text-去重相关                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+TrueSignal               5 hrs 25 mins       ███████████░░░░░░░░░░░░░░   43.98 % 
+yu_agent                 3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+Deduplication_framework  2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+gpt                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+JunkFilter               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 💻 Operating System: 
-Windows                  14 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +94,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2026 16:25:46 UTC
+ Last Updated on 01/03/2026 20:24:35 UTC
 <!--END_SECTION:waka-->
 
 <picture>
