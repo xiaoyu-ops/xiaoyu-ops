@@ -62,24 +62,24 @@ Sunday                   208 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.27 % 
-Markdown                 2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Git Config               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Python                   2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.49 % 
+Markdown                 1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Bash                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Git Config               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  7 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TrueSignal               5 hrs 25 mins       ███████████░░░░░░░░░░░░░░   43.98 % 
-yu_agent                 3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-Deduplication_framework  2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-gpt                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-JunkFilter               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+TrueSignal               4 hrs 29 mins       ██████████████░░░░░░░░░░░   56.28 % 
+Deduplication_framework  2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+gpt                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+JunkFilter               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+yu_agent                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 💻 Operating System: 
-Windows                  12 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +94,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/03/2026 16:42:57 UTC
+ Last Updated on 02/03/2026 20:35:49 UTC
 <!--END_SECTION:waka-->
 
 <picture>
