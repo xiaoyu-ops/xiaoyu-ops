@@ -62,22 +62,22 @@ Sunday                   211 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   35.73 % 
-Python                   1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   30.65 % 
-JSON                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Batchfile                17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Python                   1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   34.84 % 
+Markdown                 57 mins             ████████░░░░░░░░░░░░░░░░░   30.79 % 
+JSON                     36 mins             █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Batchfile                14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-JunkFilter               2 hrs 58 mins       █████████████████████░░░░   83.92 % 
-yu_agent                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-系统安全                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+JunkFilter               2 hrs 32 mins       ████████████████████░░░░░   81.73 % 
+yu_agent                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+系统安全                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 💻 Operating System: 
-Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +92,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2026 16:26:07 UTC
+ Last Updated on 08/03/2026 20:23:58 UTC
 <!--END_SECTION:waka-->
 
 <picture>
