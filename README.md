@@ -62,22 +62,22 @@ Sunday                   211 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   34.84 % 
-Markdown                 57 mins             ████████░░░░░░░░░░░░░░░░░   30.79 % 
-JSON                     36 mins             █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Batchfile                14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Python                   1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   34.79 % 
+Markdown                 57 mins             ████████░░░░░░░░░░░░░░░░░   30.83 % 
+JSON                     36 mins             █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Batchfile                14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-JunkFilter               2 hrs 32 mins       ████████████████████░░░░░   81.73 % 
-yu_agent                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+JunkFilter               2 hrs 32 mins       ████████████████████░░░░░   81.70 % 
+yu_agent                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
 系统安全                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 💻 Operating System: 
-Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +92,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/03/2026 16:56:19 UTC
+ Last Updated on 09/03/2026 20:32:41 UTC
 <!--END_SECTION:waka-->
 
 <picture>
