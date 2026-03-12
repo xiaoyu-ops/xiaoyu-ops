@@ -62,24 +62,24 @@ Sunday                   211 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 1 min          ██████████░░░░░░░░░░░░░░░   38.52 % 
-Markdown                 54 mins             █████████░░░░░░░░░░░░░░░░   34.34 % 
-Batchfile                14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Markdown                 54 mins             ██████████░░░░░░░░░░░░░░░   40.04 % 
+Python                   44 mins             ████████░░░░░░░░░░░░░░░░░   32.63 % 
+Batchfile                14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-JunkFilter               1 hr 50 mins        █████████████████░░░░░░░░   69.59 % 
-yu_agent                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-python临时练习               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-系统安全                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+JunkFilter               1 hr 28 mins        ████████████████░░░░░░░░░   64.55 % 
+yu_agent                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+python临时练习               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+系统安全                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 💻 Operating System: 
-Windows                  2 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +94,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/03/2026 16:57:43 UTC
+ Last Updated on 12/03/2026 20:33:24 UTC
 <!--END_SECTION:waka-->
 
 <picture>
