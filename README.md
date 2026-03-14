@@ -62,23 +62,22 @@ Sunday                   211 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   24 mins             ███████████████████░░░░░░   75.88 % 
-Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Python                   18 mins             █████████████████████░░░░   82.25 % 
+Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Go                       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-JunkFilter               11 mins             █████████░░░░░░░░░░░░░░░░   35.53 % 
-python临时练习               11 mins             █████████░░░░░░░░░░░░░░░░   34.04 % 
-系统安全                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+python临时练习               11 mins             ████████████░░░░░░░░░░░░░   49.45 % 
+JunkFilter               8 mins              █████████░░░░░░░░░░░░░░░░   36.62 % 
+Unknown Project          3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.00 % 
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,7 +92,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2026 16:28:58 UTC
+ Last Updated on 14/03/2026 20:25:58 UTC
 <!--END_SECTION:waka-->
 
 <picture>
