@@ -62,22 +62,20 @@ Sunday                   211 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   24 mins             ████████████░░░░░░░░░░░░░   48.46 % 
-Git Config               14 mins             ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-Vue.js                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Git Config               14 mins             ██████████░░░░░░░░░░░░░░░   41.59 % 
+Python                   12 mins             █████████░░░░░░░░░░░░░░░░   34.83 % 
+Vue.js                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.00 % 
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-JunkFilter               35 mins             ██████████████████░░░░░░░   71.64 % 
-python临时练习               11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+JunkFilter               35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +90,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2026 17:02:42 UTC
+ Last Updated on 17/03/2026 20:36:55 UTC
 <!--END_SECTION:waka-->
 
 <picture>
