@@ -19,7 +19,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -62,21 +62,21 @@ Sunday                   211 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 29 mins       ██████████████████████░░░   87.30 % 
-Git Config               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Vue.js                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Python                   3 hrs 23 mins       ██████████████████████░░░   86.60 % 
+Git Config               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Vue.js                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-leetcode                 2 hrs 18 mins       ████████████████████░░░░░   80.59 % 
-JunkFilter               27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+leetcode                 3 hrs 12 mins       ████████████████████░░░░░   81.70 % 
+JunkFilter               37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 💻 Operating System: 
-Windows                  2 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +91,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2026 16:56:55 UTC
+ Last Updated on 19/03/2026 20:36:37 UTC
 <!--END_SECTION:waka-->
 
 <picture>
