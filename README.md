@@ -19,7 +19,7 @@ I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -62,21 +62,24 @@ Sunday                   211 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 13 mins       ██████████████████████░░░   88.92 % 
-Git Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Vue.js                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Python                   4 hrs 13 mins       ████████████████████░░░░░   80.27 % 
+Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Git Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Vue.js                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-leetcode                 4 hrs 1 min         █████████████████████░░░░   84.87 % 
-JunkFilter               37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+leetcode                 4 hrs 1 min         ███████████████████░░░░░░   76.62 % 
+JunkFilter               37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+week2                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+第一次作业                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 💻 Operating System: 
-Windows                  4 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +94,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/03/2026 16:27:49 UTC
+ Last Updated on 21/03/2026 20:24:44 UTC
 <!--END_SECTION:waka-->
 
 <picture>
