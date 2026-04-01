@@ -1,10 +1,13 @@
 ### 👋 Hi there, I'm Xiaoyu.
 
-I'm a junior student at Sun Yat-sen University, majoring in **Cybersecurity**. I'm also an aspiring **Go (Golang) Backend Developer** and I am actively seeking internship opportunities.
+I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm also an aspiring Go (Golang) Backend Developer and currently serving as an AI Algorithm Intern at Sangfor Technologies (Tianwen AI Dept.) (2026/02 - Present).
 
 ---
 
-* 🔭 I’m currently building an end-to-end messy data cleaning architecture.
+* 🔭 I’m currently an **AI Algorithm Intern** at **Sangfor Technologies (Tianwen AI Dept.)** [2026/02 - Present].
+* 📄 One research paper under review at **VLDB** (Submitted 03/02).
+* 💡 Filed **1 patent application** and obtained **1 software copyright** registration.
+* 🏗️ Building an end-to-end messy data cleaning architecture.
 * 🌱 I’m passionate about **Artificial Intelligence**, **Backend Development**, and **cutting-edge AI models**.
 * 📫 How to reach me: [wuzhy236@mail2.sysu.edu.cn](mailto:wuzhy236@mail2.sysu.edu.cn)
 
