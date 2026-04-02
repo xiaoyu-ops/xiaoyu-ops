@@ -65,25 +65,24 @@ Sunday                   220 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   31 mins             ███████████░░░░░░░░░░░░░░   43.23 % 
-Markdown                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Go                       12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Git Config               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Python                   14 mins             ████████░░░░░░░░░░░░░░░░░   31.09 % 
+Markdown                 12 mins             ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+JavaScript               8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Git Config               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Text                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 
 🔥 Editors: 
-VS Code                  54 mins             ██████████████████░░░░░░░   73.80 % 
-Unknown Editor           19 mins             ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+VS Code                  45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-JunkFilter               31 mins             ███████████░░░░░░░░░░░░░░   42.81 % 
-clean_the_treelist       17 mins             ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-The-copy-about-the-obisid8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Deduplication_framework  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+clean_the_treelist       21 mins             ████████████░░░░░░░░░░░░░   47.10 % 
+The-copy-about-the-obisid8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Deduplication_framework  8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+文档合集                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,7 +97,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/04/2026 16:55:12 UTC
+ Last Updated on 02/04/2026 20:33:33 UTC
 <!--END_SECTION:waka-->
 
 <picture>
