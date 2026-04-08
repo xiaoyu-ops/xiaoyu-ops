@@ -22,7 +22,7 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -65,22 +65,24 @@ Sunday                   221 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   36 mins             ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-Python                   33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-Markdown                 18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Git Config               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-JavaScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Python                   45 mins             ████████░░░░░░░░░░░░░░░░░   31.78 % 
+Vue.js                   36 mins             ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+Markdown                 24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Git Config               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-JunkFilter               1 hr 57 mins        ██████████████████████░░░   89.53 % 
-Deduplication_framework  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-WEEK3                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+JunkFilter               1 hr 57 mins        ████████████████████░░░░░   81.72 % 
+leetcode                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+The-copy-about-the-obisid8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+WEEK3                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 💻 Operating System: 
-Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 2 mins        █████████████████████░░░░   85.42 % 
+Mac                      20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,7 +98,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/04/2026 16:59:55 UTC
+ Last Updated on 08/04/2026 20:40:42 UTC
 <!--END_SECTION:waka-->
 
 <picture>
