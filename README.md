@@ -22,6 +22,8 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%201%20min-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -36,6 +38,54 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                453 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+🌆 Daytime                501 commits         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+🌃 Evening                968 commits         ███████████░░░░░░░░░░░░░░   43.60 % 
+🌙 Night                  298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   377 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Tuesday                  361 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Wednesday                339 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Thursday                 422 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Friday                   266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Saturday                 233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Sunday                   222 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   4 hrs 50 mins       ███████████░░░░░░░░░░░░░░   42.34 % 
+Markdown                 4 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.48 % 
+Other                    1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Go                       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 32 mins       ████████████████░░░░░░░░░   65.96 % 
+Unknown Editor           3 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   34.04 % 
+
+🐱‍💻 Projects: 
+leetcode                 3 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   34.94 % 
+Junk-Filter              3 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.81 % 
+The-copy-about-the-obisid2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Unknown Project          1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+the_work_of_dedup        17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+
+💻 Operating System: 
+Mac                      11 hrs 26 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -49,7 +99,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/04/2026 02:08:29 UTC
+ Last Updated on 18/04/2026 05:40:44 UTC
 <!--END_SECTION:waka-->
 
 <picture>
