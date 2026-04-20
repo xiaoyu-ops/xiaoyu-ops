@@ -22,7 +22,7 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -65,25 +65,25 @@ Sunday                   253 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.36 % 
-Markdown                 6 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.81 % 
-Other                    1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Go                       17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Markdown                 7 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.11 % 
+Python                   7 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.54 % 
+Other                    1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 42 mins      ███████████████████░░░░░░   76.53 % 
-Unknown Editor           3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+VS Code                  14 hrs 54 mins      █████████████████████░░░░   84.74 % 
+Unknown Editor           2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
 
 🐱‍💻 Projects: 
-Junk-Filter              5 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.53 % 
-leetcode                 5 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.38 % 
-The-copy-about-the-obisid3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Unknown Project          1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-the_work_of_dedup        17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+The-copy-about-the-obisid4 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+Junk-Filter              4 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+leetcode                 4 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+the_work_of_dedup        1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Unknown Project          1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
 
 💻 Operating System: 
-Mac                      16 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,7 +99,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2026 17:02:19 UTC
+ Last Updated on 20/04/2026 20:43:18 UTC
 <!--END_SECTION:waka-->
 
 <picture>
