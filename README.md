@@ -22,7 +22,7 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -30,7 +30,7 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,271 Contributions in the Year 2026
+> 🏆 1,273 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,21 +41,21 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                511 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-🌆 Daytime                670 commits         ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-🌃 Evening                1218 commits        ███████████░░░░░░░░░░░░░░   44.37 % 
-🌙 Night                  346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+🌞 Morning                511 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+🌆 Daytime                670 commits         ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+🌃 Evening                1218 commits        ███████████░░░░░░░░░░░░░░   44.34 % 
+🌙 Night                  348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   435 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Tuesday                  406 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Wednesday                418 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Thursday                 514 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Monday                   437 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Tuesday                  406 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Wednesday                418 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Thursday                 514 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
 Friday                   335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
 Saturday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Sunday                   333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Sunday                   333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
 ```
 
 
@@ -65,25 +65,25 @@ Sunday                   333 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 55 mins       █████████████░░░░░░░░░░░░   50.91 % 
-Markdown                 2 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-Other                    1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Python                   4 hrs 3 mins        ████████████░░░░░░░░░░░░░   49.25 % 
+Other                    1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+Markdown                 1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 25 mins       █████████████████░░░░░░░░   66.45 % 
-Unknown Editor           3 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.55 % 
+VS Code                  7 hrs 37 mins       ███████████████████████░░   92.70 % 
+Unknown Editor           36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 
 🐱‍💻 Projects: 
-leetcode                 2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.75 % 
-The-copy-about-the-obisid2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-the_work_of_dedup        2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-New project              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-hermes                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+leetcode                 3 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.03 % 
+the_work_of_dedup        2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+The-copy-about-the-obisid1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+New project              33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+hermes                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 
 💻 Operating System: 
-Mac                      9 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,7 +99,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2026 16:53:35 UTC
+ Last Updated on 10/05/2026 20:43:52 UTC
 <!--END_SECTION:waka-->
 
 <picture>
