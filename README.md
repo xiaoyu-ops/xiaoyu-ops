@@ -22,7 +22,7 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -30,7 +30,7 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,311 Contributions in the Year 2026
+> 🏆 1,313 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,21 +41,21 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                516 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-🌆 Daytime                686 commits         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-🌃 Evening                1254 commits        ███████████░░░░░░░░░░░░░░   44.69 % 
-🌙 Night                  350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+🌞 Morning                516 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+🌆 Daytime                686 commits         ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+🌃 Evening                1261 commits        ███████████░░░░░░░░░░░░░░   44.83 % 
+🌙 Night                  350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   478 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Tuesday                  424 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Wednesday                418 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Thursday                 514 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Friday                   335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Saturday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Sunday                   333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Monday                   478 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Tuesday                  431 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Wednesday                418 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Thursday                 514 commits         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Friday                   335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Saturday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Sunday                   333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
 ```
 
 
@@ -99,7 +99,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2026 14:19:31 UTC
+ Last Updated on 12/05/2026 17:58:22 UTC
 <!--END_SECTION:waka-->
 
 <picture>
