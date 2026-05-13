@@ -30,7 +30,7 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,313 Contributions in the Year 2026
+> 🏆 1,318 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,6 +38,54 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                521 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+🌆 Daytime                686 commits         ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+🌃 Evening                1261 commits        ███████████░░░░░░░░░░░░░░   44.75 % 
+🌙 Night                  350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   478 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Tuesday                  431 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Wednesday                423 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Thursday                 514 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Friday                   335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Saturday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Sunday                   333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   6 hrs 36 mins       ██████████████░░░░░░░░░░░   57.71 % 
+Markdown                 2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Other                    2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+CSV                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+
+🔥 Editors: 
+VS Code                  10 hrs 53 mins      ████████████████████████░   95.21 % 
+Unknown Editor           32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+
+🐱‍💻 Projects: 
+leetcode                 6 hrs 3 mins        █████████████░░░░░░░░░░░░   53.01 % 
+The-copy-about-the-obisid2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+the_work_of_dedup        2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+New project              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+codex                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+
+💻 Operating System: 
+Mac                      11 hrs 26 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -51,7 +99,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2026 21:18:23 UTC
+ Last Updated on 13/05/2026 02:51:55 UTC
 <!--END_SECTION:waka-->
 
 <picture>
