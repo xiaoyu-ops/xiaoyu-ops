@@ -30,8 +30,6 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,380 Contributions in the Year 2026
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -41,21 +39,21 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                523 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-🌆 Daytime                720 commits         ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-🌃 Evening                1299 commits        ███████████░░░░░░░░░░░░░░   44.78 % 
-🌙 Night                  359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+🌞 Morning                537 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+🌆 Daytime                720 commits         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+🌃 Evening                1299 commits        ███████████░░░░░░░░░░░░░░   44.56 % 
+🌙 Night                  359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   478 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Tuesday                  431 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Wednesday                489 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Thursday                 527 commits         █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Friday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Saturday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Sunday                   333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Monday                   478 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Tuesday                  431 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Wednesday                489 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Thursday                 527 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Friday                   353 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Saturday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Sunday                   333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
 ```
 
 
@@ -99,7 +97,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 21:08:25 UTC
+ Last Updated on 15/05/2026 02:54:43 UTC
 <!--END_SECTION:waka-->
 
 <picture>
