@@ -65,25 +65,25 @@ Sunday                   384 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 35 mins      ████████████████░░░░░░░░░   64.58 % 
-Other                    3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Markdown                 2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-CSV                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Docker                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Python                   10 hrs 49 mins      ███████████████░░░░░░░░░░   61.50 % 
+Other                    3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Markdown                 2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+CSV                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Docker                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 28 mins      ██████████████████████░░░   89.63 % 
-Claude Code              2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+VS Code                  15 hrs 35 mins      ██████████████████████░░░   88.63 % 
+Claude Code              2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 
 🐱‍💻 Projects: 
-测试                       8 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.90 % 
-the_work_of_dedup        5 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-The-copy-about-the-obisid3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-leetcode                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Junk-Filter              27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+测试                       7 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.13 % 
+the_work_of_dedup        5 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.00 % 
+The-copy-about-the-obisid3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Junk-Filter              27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+leetcode                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 💻 Operating System: 
-Mac                      19 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,7 +99,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2026 17:56:56 UTC
+ Last Updated on 21/05/2026 21:26:30 UTC
 <!--END_SECTION:waka-->
 
 <picture>
