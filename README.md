@@ -22,6 +22,8 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2020%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -63,25 +65,25 @@ Sunday                   387 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 hrs 42 mins      ██████████████████░░░░░░░   72.45 % 
-Markdown                 3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Other                    2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Docker                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Python                   15 hrs 59 mins      █████████████████░░░░░░░░   69.98 % 
+Other                    3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Markdown                 1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Docker                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 12 mins      ███████████████████████░░   93.17 % 
-Claude Code              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+VS Code                  22 hrs 26 mins      █████████████████████████   98.15 % 
+Claude Code              25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🐱‍💻 Projects: 
-测试                       7 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.55 % 
-the_work_of_dedup        6 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
-The-copy-about-the-obisid4 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-acm 模式题目积累               2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Junk-Filter              27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+测试                       7 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.88 % 
+the_work_of_dedup        5 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+The-copy-about-the-obisid4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+acm 模式题目积累               4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+gpt-register-oss         33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 💻 Operating System: 
-Mac                      21 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +99,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2026 16:57:41 UTC
+ Last Updated on 23/05/2026 20:48:38 UTC
 <!--END_SECTION:waka-->
 
 <picture>
