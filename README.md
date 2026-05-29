@@ -65,24 +65,24 @@ Sunday                   388 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 hrs 46 mins      ████████████████░░░░░░░░░   62.00 % 
-Other                    4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Markdown                 2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-CSV                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Python                   8 hrs 31 mins       ███████████████░░░░░░░░░░   59.97 % 
+Other                    3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+CSV                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 13 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 13 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-acm 模式题目积累               8 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.38 % 
-the_work_of_dedup        7 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.55 % 
-The-copy-about-the-obisid2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-第四次实验                    1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-字节                       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+acm 模式题目积累               5 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   38.31 % 
+the_work_of_dedup        4 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.54 % 
+第四次实验                    1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+The-copy-about-the-obisid46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+字节                       40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 💻 Operating System: 
-Mac                      22 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,7 +98,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 18:31:54 UTC
+ Last Updated on 29/05/2026 21:51:10 UTC
 <!--END_SECTION:waka-->
 
 <picture>
