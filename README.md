@@ -65,24 +65,24 @@ Sunday                   397 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 43 mins       █████████████████░░░░░░░░   67.38 % 
-Other                    1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Other                    1 hr 55 mins        ███████████████░░░░░░░░░░   59.34 % 
+Python                   57 mins             ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  3 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-acm 模式题目积累               3 hrs 57 mins       ██████████████░░░░░░░░░░░   56.29 % 
-第四次实验                    1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-字节                       39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-the_work_of_dedup        31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+第四次实验                    1 hr 48 mins        ██████████████░░░░░░░░░░░   55.43 % 
+acm 模式题目积累               50 mins             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+the_work_of_dedup        31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+leetcode                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-Mac                      7 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,7 +98,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2026 17:04:58 UTC
+ Last Updated on 31/05/2026 20:57:16 UTC
 <!--END_SECTION:waka-->
 
 <picture>
