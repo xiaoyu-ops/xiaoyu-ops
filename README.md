@@ -65,24 +65,22 @@ Sunday                   397 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 55 mins        ███████████████░░░░░░░░░░   59.34 % 
-Python                   57 mins             ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Other                    1 hr 55 mins        ██████████████████████░░░   87.57 % 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-第四次实验                    1 hr 48 mins        ██████████████░░░░░░░░░░░   55.43 % 
-acm 模式题目积累               50 mins             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-the_work_of_dedup        31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-leetcode                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+第四次实验                    1 hr 48 mins        █████████████████████░░░░   82.14 % 
+the_work_of_dedup        22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+new-chat                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Mac                      3 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,7 +96,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2026 17:34:56 UTC
+ Last Updated on 01/06/2026 22:33:39 UTC
 <!--END_SECTION:waka-->
 
 <picture>
