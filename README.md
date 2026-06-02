@@ -22,7 +22,7 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -65,22 +65,17 @@ Sunday                   397 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 55 mins        ██████████████████████░░░   87.57 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Python                   5 mins              ████████████████████░░░░░   80.00 % 
+Other                    1 min               █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-第四次实验                    1 hr 48 mins        █████████████████████░░░░   82.14 % 
-the_work_of_dedup        22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-new-chat                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+the_work_of_dedup        7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,7 +91,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2026 16:20:52 UTC
+ Last Updated on 02/06/2026 22:22:28 UTC
 <!--END_SECTION:waka-->
 
 <picture>
