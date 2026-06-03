@@ -22,7 +22,7 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -30,7 +30,7 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,755 Contributions in the Year 2026
+> 🏆 1,756 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,46 +38,6 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                632 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-🌆 Daytime                852 commits         ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-🌃 Evening                1535 commits        ███████████░░░░░░░░░░░░░░   44.96 % 
-🌙 Night                  395 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   519 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Tuesday                  456 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Wednesday                570 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Thursday                 619 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Friday                   452 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Saturday                 401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Sunday                   397 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   5 mins              ████████████████████░░░░░   80.00 % 
-Other                    1 min               █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-
-🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-the_work_of_dedup        7 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -91,7 +51,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2026 16:45:05 UTC
+ Last Updated on 03/06/2026 22:28:26 UTC
 <!--END_SECTION:waka-->
 
 <picture>
