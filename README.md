@@ -30,7 +30,7 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,756 Contributions in the Year 2026
+> 🏆 1,757 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,6 +38,54 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                633 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+🌆 Daytime                852 commits         ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+🌃 Evening                1535 commits        ███████████░░░░░░░░░░░░░░   44.94 % 
+🌙 Night                  396 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   519 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Tuesday                  456 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Wednesday                570 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Thursday                 621 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Friday                   452 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Saturday                 401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Sunday                   397 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 10 hrs 17 mins      ██████████████░░░░░░░░░░░   56.12 % 
+TeX                      2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+TypeScript               2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Bash                     1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Python                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+
+🔥 Editors: 
+VS Code                  18 hrs 20 mins      █████████████████████████   99.95 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+🐱‍💻 Projects: 
+the_work_of_dedup        14 hrs 40 mins      ████████████████████░░░░░   79.94 % 
+gpt-image-canvas         2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+The-copy-about-the-obisid53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+codex-7890               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+
+💻 Operating System: 
+Mac                      18 hrs 20 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -51,7 +99,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2026 22:28:26 UTC
+ Last Updated on 04/06/2026 03:46:13 UTC
 <!--END_SECTION:waka-->
 
 <picture>
