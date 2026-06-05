@@ -65,22 +65,22 @@ Sunday                   397 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 hrs 36 mins       ████████████████░░░░░░░░░   64.21 % 
-TeX                      2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Bash                     1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Python                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Markdown                 8 hrs 8 mins        ███████████████░░░░░░░░░░   60.31 % 
+TeX                      2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Bash                     1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Python                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 57 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 29 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-the_work_of_dedup        14 hrs 10 mins      ████████████████████████░   94.82 % 
-The-copy-about-the-obisid45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+the_work_of_dedup        12 hrs 55 mins      ████████████████████████░   95.83 % 
+The-copy-about-the-obisid32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Mac                      14 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,7 +96,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2026 17:53:03 UTC
+ Last Updated on 05/06/2026 21:24:44 UTC
 <!--END_SECTION:waka-->
 
 <picture>
