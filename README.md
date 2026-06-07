@@ -22,8 +22,6 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%2034%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -41,21 +39,21 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                643 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-🌆 Daytime                853 commits         ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-🌃 Evening                1544 commits        ███████████░░░░░░░░░░░░░░   44.92 % 
+🌞 Morning                643 commits         █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+🌆 Daytime                853 commits         ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+🌃 Evening                1545 commits        ███████████░░░░░░░░░░░░░░   44.94 % 
 🌙 Night                  397 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   519 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Tuesday                  456 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Tuesday                  456 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
 Wednesday                570 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Thursday                 622 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Thursday                 622 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
 Friday                   462 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
 Saturday                 408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Sunday                   400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Sunday                   401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 ```
 
 
@@ -99,7 +97,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 13:48:13 UTC
+ Last Updated on 07/06/2026 17:14:47 UTC
 <!--END_SECTION:waka-->
 
 <picture>
