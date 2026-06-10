@@ -65,25 +65,25 @@ Sunday                   401 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs               ██████████████░░░░░░░░░░░   54.81 % 
-TeX                      2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-Other                    1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Python                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Markdown                 2 hrs 1 min         ██████████████░░░░░░░░░░░   54.10 % 
+Other                    1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   30.44 % 
+Python                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+TeX                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 8 mins        █████████████████████████   99.85 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+VS Code                  3 hrs 44 mins       █████████████████████████   99.64 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🐱‍💻 Projects: 
-the_work_of_dedup        6 hrs 31 mins       ██████████████████░░░░░░░   71.27 % 
-files-mentioned-by-the-us54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-hermes-learning          42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-The-copy-about-the-obisid39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-acm 模式题目积累               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+the_work_of_dedup        1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   34.03 % 
+files-mentioned-by-the-us54 mins             ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+hermes-learning          42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+The-copy-about-the-obisid31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+acm 模式题目积累               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 💻 Operating System: 
-Mac                      9 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,7 +99,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/06/2026 18:30:26 UTC
+ Last Updated on 10/06/2026 22:00:12 UTC
 <!--END_SECTION:waka-->
 
 <picture>
