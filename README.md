@@ -30,7 +30,7 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,807 Contributions in the Year 2026
+> 🏆 1,811 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,21 +41,21 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                664 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-🌆 Daytime                863 commits         ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-🌃 Evening                1551 commits        ███████████░░░░░░░░░░░░░░   44.56 % 
-🌙 Night                  403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+🌞 Morning                671 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+🌆 Daytime                863 commits         ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+🌃 Evening                1551 commits        ███████████░░░░░░░░░░░░░░   44.47 % 
+🌙 Night                  403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   523 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Tuesday                  458 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Wednesday                589 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Thursday                 640 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Friday                   462 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Saturday                 408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Sunday                   401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Monday                   523 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Tuesday                  458 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Wednesday                589 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Thursday                 640 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Friday                   469 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Saturday                 408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Sunday                   401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 ```
 
 
@@ -89,17 +89,17 @@ Mac                      8 hrs 18 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ██████████████░░░░░░░░░░░   55.00 % 
+Python                   12 repos            ███████████████░░░░░░░░░░   60.00 % 
 Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 
 
- Last Updated on 11/06/2026 22:01:39 UTC
+ Last Updated on 12/06/2026 03:42:29 UTC
 <!--END_SECTION:waka-->
 
 <picture>
