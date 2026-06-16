@@ -30,7 +30,7 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 1,833 Contributions in the Year 2026
+> 🏆 1,834 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,21 +41,21 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                674 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-🌆 Daytime                864 commits         ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-🌃 Evening                1569 commits        ███████████░░░░░░░░░░░░░░   44.69 % 
-🌙 Night                  404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+🌞 Morning                674 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+🌆 Daytime                864 commits         ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+🌃 Evening                1570 commits        ███████████░░░░░░░░░░░░░░   44.70 % 
+🌙 Night                  404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   527 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Tuesday                  463 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Wednesday                589 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Thursday                 640 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Tuesday                  464 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Wednesday                589 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Thursday                 640 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
 Friday                   471 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 Saturday                 416 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Sunday                   405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Sunday                   405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 ```
 
 
@@ -65,24 +65,23 @@ Sunday                   405 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 46 mins             █████████░░░░░░░░░░░░░░░░   37.06 % 
-Other                    45 mins             █████████░░░░░░░░░░░░░░░░   36.28 % 
-Python                   17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-TeX                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Markdown                 4 hrs 5 mins        ████████████████░░░░░░░░░   65.19 % 
+Git Config               1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  6 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-files-mentioned-by-the-us54 mins             ███████████░░░░░░░░░░░░░░   43.86 % 
-the_work_of_dedup        47 mins             █████████░░░░░░░░░░░░░░░░   37.55 % 
-acm 模式题目积累               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-MMdedup                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-hermes-learning          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+MMdedup                  3 hrs 37 mins       ██████████████░░░░░░░░░░░   57.71 % 
+pdf                      1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+the_work_of_dedup        34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+LaTeX                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+人工智能安全                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 💻 Operating System: 
-Mac                      2 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,7 +97,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2026 16:49:08 UTC
+ Last Updated on 16/06/2026 22:11:03 UTC
 <!--END_SECTION:waka-->
 
 <picture>
