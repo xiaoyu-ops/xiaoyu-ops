@@ -65,23 +65,23 @@ Sunday                   405 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 5 mins        ████████████████░░░░░░░░░   65.19 % 
-Git Config               1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Markdown                 3 hrs 10 mins       ███████████████████░░░░░░   77.67 % 
+Git Config               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Python                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MMdedup                  3 hrs 37 mins       ██████████████░░░░░░░░░░░   57.71 % 
-pdf                      1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-the_work_of_dedup        34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-LaTeX                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-人工智能安全                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+MMdedup                  1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   39.19 % 
+pdf                      1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   30.32 % 
+the_work_of_dedup        34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+LaTeX                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+人工智能安全                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 💻 Operating System: 
-Mac                      6 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +97,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2026 18:14:17 UTC
+ Last Updated on 17/06/2026 22:00:10 UTC
 <!--END_SECTION:waka-->
 
 <picture>
