@@ -65,21 +65,20 @@ Sunday                   405 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 2 mins        ██████████████████████░░░   86.12 % 
-Git Config               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Markdown                 50 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  50 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pdf                      1 hr 14 mins        █████████████░░░░░░░░░░░░   52.16 % 
-MMdedup                  30 mins             █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-LaTeX                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-人工智能安全                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+LaTeX                    16 mins             ████████░░░░░░░░░░░░░░░░░   32.86 % 
+pdf                      12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+MMdedup                  10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+人工智能安全                   7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 💻 Operating System: 
-Mac                      2 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -95,7 +94,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2026 17:55:33 UTC
+ Last Updated on 19/06/2026 21:09:13 UTC
 <!--END_SECTION:waka-->
 
 <picture>
