@@ -65,20 +65,17 @@ Sunday                   407 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 50 mins             █████████████████████████   100.00 % 
+Markdown                 22 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.00 % 
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LaTeX                    16 mins             ████████░░░░░░░░░░░░░░░░░   32.86 % 
-pdf                      12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-MMdedup                  10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-人工智能安全                   7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+LaTeX                    16 mins             ██████████████████░░░░░░░   72.77 % 
+MMdedup                  6 mins              ███████░░░░░░░░░░░░░░░░░░   27.23 % 
 
 💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.00 % 
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +91,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2026 17:24:47 UTC
+ Last Updated on 20/06/2026 21:16:09 UTC
 <!--END_SECTION:waka-->
 
 <picture>
