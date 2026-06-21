@@ -30,7 +30,7 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,941 Contributions in the Year 2026
+> 🏆 1,952 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,17 +65,16 @@ Sunday                   436 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 22 mins             █████████████████████████   100.00 % 
+Markdown                 6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LaTeX                    16 mins             ██████████████████░░░░░░░   72.77 % 
-MMdedup                  6 mins              ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+MMdedup                  6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +90,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/06/2026 17:26:52 UTC
+ Last Updated on 21/06/2026 21:12:41 UTC
 <!--END_SECTION:waka-->
 
 <picture>
