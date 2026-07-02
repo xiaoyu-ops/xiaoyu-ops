@@ -22,7 +22,7 @@ I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm a
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -65,16 +65,22 @@ Sunday                   509 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 3 hrs 46 mins       ███████████████████░░░░░░   76.76 % 
+CSS                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+TOML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+The-copy-about-the-obisid3 hrs 25 mins       █████████████████░░░░░░░░   69.55 % 
+7vwd-x0ink               48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+xiaoyu-ops.github.io     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+blog-astro               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +96,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/07/2026 17:45:41 UTC
+ Last Updated on 02/07/2026 21:04:05 UTC
 <!--END_SECTION:waka-->
 
 <picture>
