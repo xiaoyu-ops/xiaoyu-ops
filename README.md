@@ -1,23 +1,38 @@
-### 👋 Hi there, I'm Xiaoyu.
+# Hi, I'm Zhuoyang Wu / 吴卓阳
 
-I'm a junior student at Sun Yat-sen University, majoring in Cybersecurity. I'm also an aspiring AI Agent Developer and currently serving as an AI Algorithm Intern at Sangfor Technologies (Tianwen AI Dept.) (2026/02 - Present).
+> SYSU Cybersecurity junior · AI Agent builder · data systems & embodied AI explorer
 
----
+I am a 2027 undergraduate student at the School of Cybersecurity, Sun Yat-sen University, based in Shenzhen. My current work sits around **AI Agents**, **LLM training-data systems**, and **Embodied AI** — especially VLA / world-model directions.
 
-* 🔭 I’m currently an **AI Algorithm Intern** at **Sangfor Technologies (Tianwen AI Dept.)** [2026/02 - Present].
-* 📄 One research paper under review at **VLDB** (Submitted 2026 03/02).
-* 💡 Filed **1 patent application** and obtained **1 software copyright** registration.
-* 🏗️ Building an end-to-end messy data cleaning architecture.
-* 🌱 I’m passionate about **Artificial Intelligence**, **Backend Development**, and **cutting-edge AI models**.
-* 📫 How to reach me: [wuzhy236@mail2.sysu.edu.cn](mailto:wuzhy236@mail2.sysu.edu.cn)
+- 🌐 Personal homepage: **[blog.xiaoyu666.cyou](https://blog.xiaoyu666.cyou/)**
+- 🎓 SYSU Cybersecurity, Class of 2027 · GPA 3.66 / 5.0
+- 🧪 Research: **MMdedup**, a high-throughput multimodal data-cleaning / deduplication pipeline; paper under **ICDE** review
+- 🛡️ Previously at **Sangfor Technologies · Tianwen AI**, building rare TTP mining and clustering pipelines for self-evolving endpoint-security agents
+- 🤖 Exploring **AI Agent systems** and **Embodied AI** — from software agents to robotic arms
+- ✍️ Writing notes and project logs on my homepage
+- 📫 Email: [wuzhuoyang252@gmail.com](mailto:wuzhuoyang252@gmail.com)
 
-### Connect with me
+## Focus
 
-[![Follow on X](https://img.shields.io/badge/Follow-@wzhuyng5940151-1DA1F2?style=for-the-badge&logo=x)](https://x.com/wzhuyng5940151)
+```text
+AI Agents        LLM infrastructure        Data cleaning / dedup
+Embodied AI      VLA / world models        Cybersecurity AI
+```
 
-### 📊 My GitHub Stats
+## Projects
 
-![[xiaoyu-ops]'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaoyu-ops&show_icons=true&theme=default&locale=cn)
+- **[MMdedup](https://blog.xiaoyu666.cyou/projects/mmdedup/)** — multimodal deduplication pipeline for MLLM training datasets. 90% storage reduction, 3.6× throughput improvement.
+- **[Rare TTP Mining @ Sangfor](https://blog.xiaoyu666.cyou/projects/sangfor/)** — dual-path clustering pipeline for rare attack-pattern discovery; >70% precision, 2000+ training samples.
+- **[yu_agent](https://blog.xiaoyu666.cyou/projects/yu-agent/)** — unified multi-model agent framework with 8+ LLM providers, 4 reasoning modes, and layered memory; built without LangChain.
+- **[JunkFilter](https://blog.xiaoyu666.cyou/projects/junkfilter/)** — agent-based content evaluation pipeline over heterogeneous Go + Python workers, 73 RSS sources, multi-stage dedup, LangGraph evaluation.
+
+## Stack
+
+`Go` · `Python` · `C++` · `PyTorch` · `ROS` · `LangGraph` · `PostgreSQL` · `Redis` · `Docker` · `Astro` · `Tailwind CSS`
+
+## GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaoyu-ops&show_icons=true&theme=default&locale=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyu-ops&layout=compact&theme=default&locale=cn)
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
@@ -92,6 +107,7 @@ Vue                      2 repos             ██░░░░░░░░░�
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
+
 
 
 
