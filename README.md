@@ -37,7 +37,7 @@ Embodied AI      VLA / world models        Cybersecurity AI
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -45,7 +45,7 @@ Embodied AI      VLA / world models        Cybersecurity AI
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 2,234 Contributions in the Year 2026
+> 🏆 2,235 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,10 +56,10 @@ Embodied AI      VLA / world models        Cybersecurity AI
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                734 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-🌆 Daytime                984 commits         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-🌃 Evening                1742 commits        ███████████░░░░░░░░░░░░░░   44.54 % 
-🌙 Night                  451 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+🌞 Morning                734 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+🌆 Daytime                984 commits         ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+🌃 Evening                1742 commits        ███████████░░░░░░░░░░░░░░   44.53 % 
+🌙 Night                  452 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -67,10 +67,10 @@ Embodied AI      VLA / world models        Cybersecurity AI
 Monday                   586 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
 Tuesday                  481 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 Wednesday                652 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Thursday                 718 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Friday                   515 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Saturday                 450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Sunday                   509 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Thursday                 718 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Friday                   515 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Saturday                 450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Sunday                   510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
 ```
 
 
@@ -80,40 +80,41 @@ Sunday                   509 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 1 min         ████████████░░░░░░░░░░░░░   47.37 % 
-Python                   3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-TypeScript               2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-CSS                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Markdown                 9 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   38.58 % 
+Python                   6 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+TypeScript               5 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+CSS                      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 27 mins      █████████████████████░░░░   82.22 % 
-Claude Code              2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+VS Code                  21 hrs 59 mins      ███████████████████████░░   90.67 % 
+Claude Code              2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 
 🐱‍💻 Projects: 
-read_paper               9 hrs 6 mins        ██████████████████░░░░░░░   71.52 % 
-The-copy-about-the-obisid3 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-xiaoyu-ops.github.io     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-blog-astro               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+read_paper               19 hrs 51 mins      ████████████████████░░░░░   81.87 % 
+The-copy-about-the-obisid3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+blog-astro               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+xiaoyu-ops.github.io     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+new-chat                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      12 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ███████████████░░░░░░░░░░   59.09 % 
-Astro                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   13 repos            ██████████████░░░░░░░░░░░   56.52 % 
+Astro                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 04/07/2026 17:02:53 UTC
+ Last Updated on 04/07/2026 20:55:18 UTC
 <!--END_SECTION:waka-->
 
 <picture>
