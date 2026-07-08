@@ -37,7 +37,7 @@ Embodied AI      VLA / world models        Cybersecurity AI
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -80,25 +80,25 @@ Sunday                   512 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   39.35 % 
-Python                   8 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
-TypeScript               6 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-JavaScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Markdown                 13 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   37.35 % 
+Python                   9 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+TypeScript               8 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+JavaScript               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+TSConfig                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 40 mins      ███████████████████████░░   93.13 % 
-Claude Code              2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+VS Code                  34 hrs 11 mins      ███████████████████████░░   93.79 % 
+Claude Code              2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 
 🐱‍💻 Projects: 
-read_paper               31 hrs 21 mins      ████████████████████████░   95.18 % 
-blog-astro               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-The-copy-about-the-obisid43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-new-chat                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-zyz                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+read_paper               35 hrs 25 mins      ████████████████████████░   97.17 % 
+blog-astro               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+zyz                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+new-chat                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+The-copy-about-the-obisid2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Mac                      32 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      36 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +114,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2026 17:27:43 UTC
+ Last Updated on 08/07/2026 21:05:32 UTC
 <!--END_SECTION:waka-->
 
 <picture>
