@@ -45,7 +45,7 @@ Embodied AI      VLA / world models        Cybersecurity AI
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 2,255 Contributions in the Year 2026
+> 🏆 2,256 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,25 +80,25 @@ Sunday                   512 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   37.35 % 
-Python                   9 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-TypeScript               8 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-JavaScript               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-TSConfig                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Markdown                 14 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   38.27 % 
+Python                   9 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+TypeScript               8 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+JavaScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+TSConfig                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 11 mins      ███████████████████████░░   93.79 % 
-Claude Code              2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+VS Code                  35 hrs 41 mins      ████████████████████████░   94.04 % 
+Claude Code              2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 🐱‍💻 Projects: 
-read_paper               35 hrs 25 mins      ████████████████████████░   97.17 % 
-blog-astro               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-zyz                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-new-chat                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-The-copy-about-the-obisid2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+read_paper               36 hrs 41 mins      ████████████████████████░   96.69 % 
+blog-astro               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+zyz                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+new-chat                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+The-copy-about-the-obisid2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Mac                      36 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +114,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2026 17:54:56 UTC
+ Last Updated on 09/07/2026 21:22:24 UTC
 <!--END_SECTION:waka-->
 
 <picture>
