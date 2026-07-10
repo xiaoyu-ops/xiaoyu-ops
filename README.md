@@ -80,25 +80,24 @@ Sunday                   512 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 14 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   38.27 % 
-Python                   9 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-TypeScript               8 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-JavaScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-TSConfig                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Markdown                 11 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   39.85 % 
+Python                   6 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+TypeScript               6 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+TSConfig                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-VS Code                  35 hrs 41 mins      ████████████████████████░   94.04 % 
-Claude Code              2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+VS Code                  28 hrs 50 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-read_paper               36 hrs 41 mins      ████████████████████████░   96.69 % 
-blog-astro               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-zyz                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-new-chat                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-The-copy-about-the-obisid2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+read_paper               27 hrs 35 mins      ████████████████████████░   95.65 % 
+blog-astro               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+zyz                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+new-chat                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+The-copy-about-the-obisid2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Mac                      37 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +113,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2026 17:47:16 UTC
+ Last Updated on 10/07/2026 21:05:02 UTC
 <!--END_SECTION:waka-->
 
 <picture>
