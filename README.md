@@ -37,7 +37,7 @@ Embodied AI      VLA / world models        Cybersecurity AI
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -53,51 +53,6 @@ Embodied AI      VLA / world models        Cybersecurity AI
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                735 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-🌆 Daytime                989 commits         ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-🌃 Evening                1771 commits        ███████████░░░░░░░░░░░░░░   44.84 % 
-🌙 Night                  455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   587 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Tuesday                  503 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Wednesday                662 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Thursday                 719 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Friday                   516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Saturday                 450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Sunday                   513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 2 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   40.43 % 
-TypeScript               1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-Python                   1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-TSConfig                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 47 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-read_paper               6 hrs 39 mins       █████████████████████████   98.04 % 
-zyz                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-💻 Operating System: 
-Mac                      6 hrs 47 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -111,7 +66,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2026 17:15:47 UTC
+ Last Updated on 15/07/2026 20:59:10 UTC
 <!--END_SECTION:waka-->
 
 <picture>
