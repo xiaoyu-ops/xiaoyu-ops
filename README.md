@@ -37,7 +37,7 @@ Embodied AI      VLA / world models        Cybersecurity AI
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -80,21 +80,21 @@ Sunday                   513 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 45 mins        ████████████░░░░░░░░░░░░░   48.02 % 
-Python                   57 mins             ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-TypeScript               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Markdown                 4 hrs 25 mins       ██████████████░░░░░░░░░░░   55.07 % 
+TypeScript               1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Python                   1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-read_paper               3 hrs 35 mins       ████████████████████████░   98.00 % 
-The-copy-about-the-obisid4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+read_paper               7 hrs 58 mins       █████████████████████████   99.09 % 
+The-copy-about-the-obisid4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Mac                      3 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +110,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2026 17:14:25 UTC
+ Last Updated on 16/07/2026 20:55:51 UTC
 <!--END_SECTION:waka-->
 
 <picture>
