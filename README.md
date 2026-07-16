@@ -53,6 +53,50 @@ Embodied AI      VLA / world models        Cybersecurity AI
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                735 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+🌆 Daytime                989 commits         ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+🌃 Evening                1771 commits        ███████████░░░░░░░░░░░░░░   44.84 % 
+🌙 Night                  455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   587 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Tuesday                  503 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Wednesday                662 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Thursday                 719 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Friday                   516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Saturday                 450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Sunday                   513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 1 hr 45 mins        ████████████░░░░░░░░░░░░░   48.02 % 
+Python                   57 mins             ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+TypeScript               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+read_paper               3 hrs 35 mins       ████████████████████████░   98.00 % 
+The-copy-about-the-obisid4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+
+💻 Operating System: 
+Mac                      3 hrs 40 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -66,7 +110,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2026 20:59:10 UTC
+ Last Updated on 16/07/2026 02:24:18 UTC
 <!--END_SECTION:waka-->
 
 <picture>
