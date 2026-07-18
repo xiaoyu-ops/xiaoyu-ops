@@ -39,7 +39,7 @@ Embodied AI      VLA / world models        Cybersecurity AI
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2013%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -110,7 +110,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2026 02:11:17 UTC
+ Last Updated on 18/07/2026 06:04:02 UTC
 <!--END_SECTION:waka-->
 
 <picture>
