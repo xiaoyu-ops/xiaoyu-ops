@@ -37,15 +37,13 @@ Embodied AI      VLA / world models        Cybersecurity AI
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%207%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.7 MB Used in GitHub's Storage 
  > 
-> 🏆 2,330 Contributions in the Year 2026
+> 🏆 2,338 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,20 +55,20 @@ Embodied AI      VLA / world models        Cybersecurity AI
 
 ```text
 🌞 Morning                743 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-🌆 Daytime                1009 commits        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-🌃 Evening                1793 commits        ███████████░░░░░░░░░░░░░░   44.68 % 
+🌆 Daytime                1009 commits        ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+🌃 Evening                1795 commits        ███████████░░░░░░░░░░░░░░   44.71 % 
 🌙 Night                  468 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   587 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Monday                   587 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 Tuesday                  505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Wednesday                685 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Wednesday                685 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
 Thursday                 743 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Friday                   529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Friday                   531 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
 Saturday                 450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Sunday                   514 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Sunday                   514 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
 ```
 
 
@@ -113,7 +111,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 13:39:53 UTC
+ Last Updated on 24/07/2026 17:29:21 UTC
 <!--END_SECTION:waka-->
 
 <picture>
