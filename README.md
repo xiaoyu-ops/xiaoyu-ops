@@ -37,7 +37,7 @@ Embodied AI      VLA / world models        Cybersecurity AI
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -56,21 +56,21 @@ Embodied AI      VLA / world models        Cybersecurity AI
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                745 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-🌆 Daytime                1011 commits        ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-🌃 Evening                1797 commits        ███████████░░░░░░░░░░░░░░   44.63 % 
-🌙 Night                  473 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+🌞 Morning                745 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+🌆 Daytime                1011 commits        ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+🌃 Evening                1801 commits        ███████████░░░░░░░░░░░░░░   44.70 % 
+🌙 Night                  472 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   587 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Tuesday                  505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Wednesday                685 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Thursday                 743 commits         █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Friday                   531 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Saturday                 455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Sunday                   520 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Monday                   587 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Tuesday                  505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Wednesday                685 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Thursday                 743 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Friday                   531 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Saturday                 455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Sunday                   523 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
 ```
 
 
@@ -103,17 +103,17 @@ Mac                      23 hrs 58 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ██████████████░░░░░░░░░░░   56.52 % 
+Python                   14 repos            ███████████████░░░░░░░░░░   60.87 % 
 Astro                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 26/07/2026 09:57:42 UTC
+ Last Updated on 26/07/2026 13:16:15 UTC
 <!--END_SECTION:waka-->
 
 <picture>
