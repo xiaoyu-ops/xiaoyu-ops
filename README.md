@@ -37,7 +37,7 @@ Embodied AI      VLA / world models        Cybersecurity AI
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -45,7 +45,7 @@ Embodied AI      VLA / world models        Cybersecurity AI
 
 > 📦 2.7 MB Used in GitHub's Storage 
  > 
-> 🏆 2,352 Contributions in the Year 2026
+> 🏆 2,364 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,21 +56,21 @@ Embodied AI      VLA / world models        Cybersecurity AI
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                745 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-🌆 Daytime                1011 commits        ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-🌃 Evening                1801 commits        ███████████░░░░░░░░░░░░░░   44.70 % 
-🌙 Night                  472 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+🌞 Morning                745 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+🌆 Daytime                1011 commits        ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+🌃 Evening                1809 commits        ███████████░░░░░░░░░░░░░░   44.77 % 
+🌙 Night                  476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   587 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Tuesday                  505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Wednesday                685 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Thursday                 743 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Friday                   531 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Saturday                 455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Sunday                   523 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Monday                   591 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Tuesday                  505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Wednesday                685 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Thursday                 743 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Friday                   531 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Saturday                 455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Sunday                   531 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
 ```
 
 
@@ -80,24 +80,24 @@ Sunday                   523 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-Python                   5 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-TypeScript               4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Other                    1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-JavaScript               1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Markdown                 7 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.01 % 
+Python                   6 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+TypeScript               4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+JavaScript               2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+SSH Config               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  25 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-read_paper               17 hrs 32 mins      ██████████████████░░░░░░░   73.15 % 
-new-chat                 1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Unknown Project          1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-the_work_of_dedup        1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-MMdedup                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+read_paper               19 hrs 11 mins      ███████████████████░░░░░░   75.38 % 
+MMdedup                  1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+the_work_of_dedup        1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Unknown Project          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+blog-astro               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 💻 Operating System: 
-Mac                      23 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +113,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 16:58:05 UTC
+ Last Updated on 26/07/2026 20:56:48 UTC
 <!--END_SECTION:waka-->
 
 <picture>
