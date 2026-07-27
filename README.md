@@ -37,9 +37,9 @@ Embodied AI      VLA / world models        Cybersecurity AI
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-278%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-283%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -82,45 +82,45 @@ Sunday                   531 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.01 % 
-Python                   6 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-TypeScript               4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-JavaScript               2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-SSH Config               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Markdown                 9 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.69 % 
+Python                   7 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+TypeScript               4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+JavaScript               2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Other                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 50 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-read_paper               19 hrs 11 mins      ███████████████████░░░░░░   75.38 % 
-MMdedup                  1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-the_work_of_dedup        1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Unknown Project          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-blog-astro               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+read_paper               20 hrs 46 mins      ██████████████████░░░░░░░   72.06 % 
+求水山-绩效薪酬改革课程             2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+MMdedup                  1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+the_work_of_dedup        1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Unknown Project          1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 💻 Operating System: 
-Mac                      25 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 27 mins (100.0%)
+⏱ AI Coding Time: 28 hrs 50 mins (100.0%)
 
-✍️ 31,183 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 33,415 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 17,766,134,155 Input Tokens, 49,535,270 Output Tokens
+🔤 17,810,975,175 Input Tokens, 49,703,974 Output Tokens
 
-💵 $5049.45 Estimated AI Cost This Week
+💵 $5277.16 Estimated AI Cost This Week
 
-🧠 108 AI Sessions, 367 AI Prompts
+🧠 110 AI Sessions, 387 AI Prompts
 
-GPT                      31,994 lines        █████████████████████████   100.00 % 
+GPT                      34,247 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 20,825 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 19,804 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -137,7 +137,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 17:41:24 UTC
+ Last Updated on 27/07/2026 21:09:11 UTC
 <!--END_SECTION:waka-->
 
 <picture>
