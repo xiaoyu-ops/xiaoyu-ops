@@ -37,7 +37,9 @@ Embodied AI      VLA / world models        Cybersecurity AI
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%208%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-278%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -100,6 +102,28 @@ blog-astro               33 mins             █░░░░░░░░░░�
 Mac                      25 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 25 hrs 27 mins (100.0%)
+
+✍️ 31,183 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 17,766,134,155 Input Tokens, 49,535,270 Output Tokens
+
+💵 $5049.45 Estimated AI Cost This Week
+
+🧠 108 AI Sessions, 367 AI Prompts
+
+GPT                      31,994 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 20,825 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -113,7 +137,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 14:29:06 UTC
+ Last Updated on 27/07/2026 17:41:24 UTC
 <!--END_SECTION:waka-->
 
 <picture>
