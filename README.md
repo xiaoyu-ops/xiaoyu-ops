@@ -82,44 +82,44 @@ Sunday                   531 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.41 % 
-Python                   6 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   31.43 % 
-JavaScript               1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-TypeScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Other                    1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Markdown                 5 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.50 % 
+Python                   5 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.88 % 
+JavaScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+CSV                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  16 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-read_paper               9 hrs 48 mins       ███████████░░░░░░░░░░░░░░   44.49 % 
-the_work_of_dedup        3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Unknown Project          3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-求水山-绩效薪酬改革课程             2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-MMdedup                  1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+read_paper               4 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+the_work_of_dedup        3 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+Unknown Project          3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+求水山-绩效薪酬改革课程             2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+MMdedup                  1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
 
 💻 Operating System: 
-Mac                      22 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      16 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 1 min (100.0%)
+⏱ AI Coding Time: 16 hrs 38 mins (100.0%)
 
-✍️ 11,640 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,991 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,159,314,881 Input Tokens, 3,077,183 Output Tokens
+🔤 298,474,649 Input Tokens, 898,201 Output Tokens
 
-💵 $2381.78 Estimated AI Cost This Week
+💵 $1463.68 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 136 AI Prompts
+🧠 26 AI Sessions, 98 AI Prompts
 
-GPT                      11,795 lines        █████████████████████████   100.00 % 
+GPT                      10,101 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 10,565 characters per prompt
+📚 Verbose Prompter — average 6,113 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -137,7 +137,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 17:13:49 UTC
+ Last Updated on 29/07/2026 20:54:04 UTC
 <!--END_SECTION:waka-->
 
 <picture>
