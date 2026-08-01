@@ -47,7 +47,7 @@ Embodied AI      VLA / world models        Cybersecurity AI
 
 > 📦 2.7 MB Used in GitHub's Storage 
  > 
-> 🏆 2,408 Contributions in the Year 2026
+> 🏆 2,412 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,21 +58,21 @@ Embodied AI      VLA / world models        Cybersecurity AI
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                753 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-🌆 Daytime                1028 commits        ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-🌃 Evening                1822 commits        ███████████░░░░░░░░░░░░░░   44.60 % 
-🌙 Night                  482 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+🌞 Morning                753 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+🌆 Daytime                1028 commits        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+🌃 Evening                1822 commits        ███████████░░░░░░░░░░░░░░   44.56 % 
+🌙 Night                  486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   597 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Tuesday                  516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Wednesday                688 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Thursday                 746 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Friday                   538 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Saturday                 465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Sunday                   535 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Monday                   597 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Tuesday                  516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Wednesday                688 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Thursday                 746 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Friday                   538 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Saturday                 465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Sunday                   539 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 ```
 
 
@@ -82,44 +82,44 @@ Sunday                   535 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.50 % 
-Python                   5 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.88 % 
-JavaScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-CSV                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Python                   4 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   33.15 % 
+Markdown                 4 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.00 % 
+JavaScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Other                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+CSV                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 38 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-read_paper               4 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.91 % 
-the_work_of_dedup        3 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-Unknown Project          3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-求水山-绩效薪酬改革课程             2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-MMdedup                  1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+read_paper               4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+Unknown Project          2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+the_work_of_dedup        2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+求水山-绩效薪酬改革课程             2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+MMdedup                  1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 
 💻 Operating System: 
-Mac                      16 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 38 mins (100.0%)
+⏱ AI Coding Time: 13 hrs 40 mins (100.0%)
 
-✍️ 9,991 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 8,608 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 298,474,649 Input Tokens, 898,201 Output Tokens
+🔤 219,175,773 Input Tokens, 670,830 Output Tokens
 
-💵 $1463.68 Estimated AI Cost This Week
+💵 $1061.50 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 98 AI Prompts
+🧠 23 AI Sessions, 82 AI Prompts
 
-GPT                      10,101 lines        █████████████████████████   100.00 % 
+GPT                      8,700 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,113 characters per prompt
+📚 Verbose Prompter — average 6,959 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -137,7 +137,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 16:57:37 UTC
+ Last Updated on 01/08/2026 20:49:15 UTC
 <!--END_SECTION:waka-->
 
 <picture>
