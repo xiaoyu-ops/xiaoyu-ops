@@ -82,44 +82,22 @@ Sunday                   543 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 13 mins       ███████████░░░░░░░░░░░░░░   44.70 % 
-Markdown                 1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-CSV                      44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Docker                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 31 mins       █████████████░░░░░░░░░░░░   50.57 % 
-the_work_of_dedup        2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.22 % 
-read_paper               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 59 mins (100.0%)
-
-✍️ 4,710 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 78,113,067 Input Tokens, 250,611 Output Tokens
-
-💵 $408.88 Estimated AI Cost This Week
-
-🧠 10 AI Sessions, 25 AI Prompts
-
-GPT                      4,739 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 15,673 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -135,7 +113,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 17:46:41 UTC
+ Last Updated on 04/08/2026 21:11:06 UTC
 <!--END_SECTION:waka-->
 
 <picture>
