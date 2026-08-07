@@ -37,13 +37,17 @@ Embodied AI      VLA / world models        Cybersecurity AI
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2045%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-288%20hrs%208%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.8 MB Used in GitHub's Storage 
  > 
-> 🏆 2,454 Contributions in the Year 2026
+> 🏆 2,458 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,21 +58,21 @@ Embodied AI      VLA / world models        Cybersecurity AI
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                754 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-🌆 Daytime                1031 commits        ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-🌃 Evening                1860 commits        ███████████░░░░░░░░░░░░░░   45.01 % 
-🌙 Night                  487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+🌞 Morning                758 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+🌆 Daytime                1031 commits        ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+🌃 Evening                1860 commits        ███████████░░░░░░░░░░░░░░   44.97 % 
+🌙 Night                  487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   615 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Tuesday                  536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Wednesday                689 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Thursday                 746 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Friday                   538 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Saturday                 465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Sunday                   543 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Monday                   615 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Tuesday                  536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Wednesday                689 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Thursday                 746 commits         █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Friday                   542 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Saturday                 465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Sunday                   543 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 ```
 
 
@@ -109,7 +113,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:53:24 UTC
+ Last Updated on 07/08/2026 05:39:59 UTC
 <!--END_SECTION:waka-->
 
 <picture>
