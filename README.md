@@ -37,9 +37,9 @@ Embodied AI      VLA / world models        Cybersecurity AI
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-288%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-297%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -82,22 +82,50 @@ Sunday                   544 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 27 hrs 24 mins      ██████████████████░░░░░░░   71.88 % 
+Python                   7 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+TypeScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  32 hrs 13 mins      █████████████████████░░░░   84.52 % 
+Claude Code              5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Codex CLI                49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          10 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+read_paper               9 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+The-copy-about-the-obisid5 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+宝溪纸业数据                   4 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+the_work_of_dedup        2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      38 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 38 hrs 7 mins (100.0%)
+
+✍️ 9,953 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 582,274,688 Input Tokens, 1,451,385 Output Tokens
+
+💵 $1436.96 Estimated AI Cost This Week
+
+🧠 363 AI Sessions, 822 AI Prompts
+
+GPT                      9,428 lines         █████████████████████████   98.62 % 
+Opus                     132 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 31,222 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +141,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 16:31:58 UTC
+ Last Updated on 09/08/2026 20:29:24 UTC
 <!--END_SECTION:waka-->
 
 <picture>
