@@ -47,7 +47,7 @@ Embodied AI      VLA / world models        Cybersecurity AI
 
 > 📦 2.8 MB Used in GitHub's Storage 
  > 
-> 🏆 2,500 Contributions in the Year 2026
+> 🏆 2,506 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,21 +58,21 @@ Embodied AI      VLA / world models        Cybersecurity AI
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                762 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-🌆 Daytime                1039 commits        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-🌃 Evening                1873 commits        ███████████░░░░░░░░░░░░░░   44.83 % 
-🌙 Night                  504 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+🌞 Morning                762 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+🌆 Daytime                1039 commits        ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+🌃 Evening                1873 commits        ███████████░░░░░░░░░░░░░░   44.77 % 
+🌙 Night                  510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   621 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Tuesday                  536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Wednesday                689 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Thursday                 746 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Friday                   552 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Saturday                 490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Sunday                   544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Monday                   621 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Tuesday                  542 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Wednesday                689 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Thursday                 746 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Friday                   552 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Saturday                 490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Sunday                   544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 ```
 
 
@@ -82,49 +82,49 @@ Sunday                   544 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 27 hrs 24 mins      ██████████████████░░░░░░░   71.88 % 
-Python                   7 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-TypeScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Markdown                 21 hrs 54 mins      █████████████████░░░░░░░░   67.37 % 
+Python                   7 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+TypeScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 13 mins      █████████████████████░░░░   84.52 % 
-Claude Code              5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Codex CLI                49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+VS Code                  26 hrs 36 mins      ████████████████████░░░░░   81.85 % 
+Claude Code              5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Codex CLI                49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🐱‍💻 Projects: 
-Unknown Project          10 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-read_paper               9 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-The-copy-about-the-obisid5 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-宝溪纸业数据                   4 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-the_work_of_dedup        2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+read_paper               9 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.55 % 
+Unknown Project          7 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+宝溪纸业数据                   4 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+The-copy-about-the-obisid4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+the_work_of_dedup        2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 💻 Operating System: 
-Mac                      38 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      32 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 7 mins (100.0%)
+⏱ AI Coding Time: 32 hrs 30 mins (100.0%)
 
-✍️ 9,953 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,682 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 582,274,688 Input Tokens, 1,451,385 Output Tokens
+🔤 549,446,214 Input Tokens, 1,355,620 Output Tokens
 
-💵 $1436.96 Estimated AI Cost This Week
+💵 $1347.60 Estimated AI Cost This Week
 
-🧠 363 AI Sessions, 822 AI Prompts
+🧠 241 AI Sessions, 605 AI Prompts
 
-GPT                      9,428 lines         █████████████████████████   98.62 % 
-Opus                     132 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+GPT                      9,157 lines         █████████████████████████   98.58 % 
+Opus                     132 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 31,222 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 27,599 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -141,7 +141,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 16:53:11 UTC
+ Last Updated on 10/08/2026 20:40:15 UTC
 <!--END_SECTION:waka-->
 
 <picture>
