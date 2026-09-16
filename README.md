@@ -37,9 +37,9 @@ Embodied AI      VLA / world models        Cybersecurity AI
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-297%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-298%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -47,7 +47,7 @@ Embodied AI      VLA / world models        Cybersecurity AI
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 3,220 Contributions in the Year 2026
+> 🏆 3,223 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,21 +58,21 @@ Embodied AI      VLA / world models        Cybersecurity AI
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                861 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-🌆 Daytime                1133 commits        ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-🌃 Evening                2187 commits        ███████████░░░░░░░░░░░░░░   44.43 % 
-🌙 Night                  741 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+🌞 Morning                861 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+🌆 Daytime                1133 commits        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+🌃 Evening                2187 commits        ███████████░░░░░░░░░░░░░░   44.41 % 
+🌙 Night                  744 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   712 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Tuesday                  628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Wednesday                790 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Thursday                 824 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Friday                   639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Saturday                 624 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Sunday                   705 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Monday                   712 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Tuesday                  628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Wednesday                790 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Thursday                 827 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Friday                   639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Saturday                 624 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Sunday                   705 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 ```
 
 
@@ -82,41 +82,51 @@ Sunday                   705 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 mins             █████████████████████████   100.00 % 
+Other                    21 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   39.07 % 
+Markdown                 12 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+Python                   11 hrs 14 mins      █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+JSON                     4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+MDX                      2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🔥 Editors: 
-VS Code                  9 mins              ███████████████████████░░   91.45 % 
-Codex Vscode             0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+VS Code                  40 hrs 1 min        ██████████████████░░░░░░░   72.55 % 
+Codex Vscode             15 hrs 8 mins       ███████░░░░░░░░░░░░░░░░░░   27.45 % 
 
 🐱‍💻 Projects: 
-Unknown Project          9 mins              ███████████████████████░░   91.45 % 
-new-chat                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Unknown Project          31 hrs 17 mins      ██████████████░░░░░░░░░░░   56.71 % 
+the_work_of_dedup        7 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+The-copy-about-the-obisid5 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+blog-astro               5 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+机械臂                      1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+Mac                      55 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (100.0%)
+⏱ AI Coding Time: 55 hrs 10 mins (100.0%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 26,400 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,086,092 Input Tokens, 18,879 Output Tokens
+🔤 352,023,078 Input Tokens, 5,861,141 Output Tokens
 
-💵 $13.96 Estimated AI Cost This Week
+💵 $2403.65 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 1 AI Prompts
+🧠 333 AI Sessions, 735 AI Prompts
 
-GPT                      111 lines           █████████████████████████   100.00 % 
+GPT                      26,589 lines        ████████████████████████░   97.41 % 
+Codex-Vscode             707 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 30 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 18,286 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -132,7 +142,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 16:07:49 UTC
+ Last Updated on 16/09/2026 22:40:22 UTC
 <!--END_SECTION:waka-->
 
 <picture>
