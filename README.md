@@ -39,7 +39,7 @@ Embodied AI      VLA / world models        Cybersecurity AI
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-300%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-300%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -82,49 +82,49 @@ Sunday                   705 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    19 hrs 31 mins      ██████████████░░░░░░░░░░░   57.51 % 
-Markdown                 6 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-MDX                      2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Python                   1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Other                    11 hrs 24 mins      ██████████████░░░░░░░░░░░   57.24 % 
+Markdown                 3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Python                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 32 mins      ███████████████░░░░░░░░░░   60.51 % 
-Codex Vscode             13 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   39.49 % 
+Codex Vscode             11 hrs 19 mins      ██████████████░░░░░░░░░░░   56.84 % 
+VS Code                  8 hrs 35 mins       ███████████░░░░░░░░░░░░░░   43.16 % 
 
 🐱‍💻 Projects: 
-Unknown Project          12 hrs 56 mins      ██████████░░░░░░░░░░░░░░░   38.13 % 
-blog-astro               5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-The-copy-about-the-obisid4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-the_work_of_dedup        4 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-求职                       2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Unknown Project          5 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+the_work_of_dedup        4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+blog-astro               2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+求职                       2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+The-copy-about-the-obisid1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 
 💻 Operating System: 
-Mac                      33 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 56 mins (100.0%)
+⏱ AI Coding Time: 19 hrs 55 mins (100.0%)
 
-✍️ 3,844 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,380 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 315,859,423 Input Tokens, 2,345,856 Output Tokens
+🔤 102,131,428 Input Tokens, 1,391,378 Output Tokens
 
-💵 $1917.10 Estimated AI Cost This Week
+💵 $856.17 Estimated AI Cost This Week
 
-🧠 111 AI Sessions, 365 AI Prompts
+🧠 95 AI Sessions, 244 AI Prompts
 
-GPT                      4,067 lines         ██████████████████████░░░   86.29 % 
-Codex-Vscode             646 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+GPT                      2,991 lines         █████████████████████░░░░   82.24 % 
+Codex-Vscode             646 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 13,824 characters per prompt
+📚 Verbose Prompter — average 12,228 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -142,7 +142,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 18:26:54 UTC
+ Last Updated on 19/09/2026 22:06:53 UTC
 <!--END_SECTION:waka-->
 
 <picture>
