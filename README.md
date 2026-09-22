@@ -82,50 +82,50 @@ Sunday                   705 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 hrs 6 mins       ██████████████░░░░░░░░░░░   54.13 % 
-TeX                      5 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Python                   2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Markdown                 2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Other                    9 hrs 1 min         █████████████░░░░░░░░░░░░   50.83 % 
+TeX                      5 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+Python                   2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-Codex Vscode             13 hrs 39 mins      ██████████████░░░░░░░░░░░   56.38 % 
-VS Code                  10 hrs 33 mins      ███████████░░░░░░░░░░░░░░   43.62 % 
+Codex Vscode             9 hrs 17 mins       █████████████░░░░░░░░░░░░   52.32 % 
+VS Code                  8 hrs 28 mins       ████████████░░░░░░░░░░░░░   47.68 % 
 
 🐱‍💻 Projects: 
-the_work_of_dedup        9 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   40.88 % 
-LaTeX                    3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Unknown Project          3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-求职                       2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-信息保留与数据删减论文.code-workspac2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+the_work_of_dedup        6 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   33.92 % 
+LaTeX                    3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Unknown Project          2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+信息保留与数据删减论文.code-workspac2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+求职                       2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 
 💻 Operating System: 
-Mac                      24 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 2 mins (99.29%)
+⏱ AI Coding Time: 17 hrs 35 mins (99.03%)
 
-✍️ 2,502 lines written by AI, 63 lines written by hand (97.54% AI-written)
+✍️ 2,110 lines written by AI, 63 lines written by hand (97.1% AI-written)
 
-🔤 74,534,671 Input Tokens, 2,295,650 Output Tokens
+🔤 60,137,757 Input Tokens, 1,912,420 Output Tokens
 
-💵 $1363.04 Estimated AI Cost This Week
+💵 $1273.34 Estimated AI Cost This Week
 
-🧠 117 AI Sessions, 595 AI Prompts
+🧠 92 AI Sessions, 522 AI Prompts
 
-GPT                      1,536 lines         ████████████████░░░░░░░░░   62.85 % 
-Codex-Vscode             908 lines           █████████░░░░░░░░░░░░░░░░   37.15 % 
+GPT                      1,144 lines         ██████████████░░░░░░░░░░░   55.75 % 
+Codex-Vscode             908 lines           ███████████░░░░░░░░░░░░░░   44.25 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.54% of written lines came from AI
-📚 Verbose Prompter — average 20,014 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.45% of changed lines were hand-edited
+🤖 AI-Driven — 97.1% of written lines came from AI
+📚 Verbose Prompter — average 21,161 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 2.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -141,7 +141,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 16:17:07 UTC
+ Last Updated on 22/09/2026 22:45:29 UTC
 <!--END_SECTION:waka-->
 
 <picture>
