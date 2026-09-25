@@ -47,7 +47,7 @@ Embodied AI      VLA / world models        Cybersecurity AI
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
-> 🏆 3,342 Contributions in the Year 2026
+> 🏆 3,347 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,21 +58,21 @@ Embodied AI      VLA / world models        Cybersecurity AI
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                906 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-🌆 Daytime                1160 commits        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-🌃 Evening                2199 commits        ███████████░░░░░░░░░░░░░░   43.59 % 
-🌙 Night                  780 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+🌞 Morning                907 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+🌆 Daytime                1160 commits        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+🌃 Evening                2199 commits        ███████████░░░░░░░░░░░░░░   43.54 % 
+🌙 Night                  784 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   714 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Tuesday                  658 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Wednesday                799 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Thursday                 884 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Friday                   652 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Saturday                 633 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Sunday                   705 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Monday                   714 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Tuesday                  658 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Wednesday                799 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Thursday                 884 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Friday                   652 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Saturday                 638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Sunday                   705 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
 ```
 
 
@@ -82,49 +82,49 @@ Sunday                   705 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    24 hrs 12 mins      ███████████░░░░░░░░░░░░░░   42.10 % 
-Markdown                 19 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   34.59 % 
-Python                   7 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-TeX                      5 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-JavaScript               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Other                    20 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   39.51 % 
+Markdown                 18 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   35.14 % 
+Python                   7 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+TeX                      5 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+JavaScript               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-Codex Vscode             36 hrs 34 mins      ████████████████░░░░░░░░░   63.60 % 
-VS Code                  20 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   36.40 % 
+Codex Vscode             33 hrs 4 mins       ████████████████░░░░░░░░░   63.04 % 
+VS Code                  19 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   36.96 % 
 
 🐱‍💻 Projects: 
-the_work_of_dedup        20 hrs 1 min        █████████░░░░░░░░░░░░░░░░   34.82 % 
-Unknown Project          7 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-求职                       5 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-read_paper               4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-LaTeX                    3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+the_work_of_dedup        18 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   35.02 % 
+Unknown Project          7 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+求职                       4 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+read_paper               4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+LaTeX                    3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 
 💻 Operating System: 
-Mac                      57 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      52 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 hrs 14 mins (97.81%)
+⏱ AI Coding Time: 51 hrs 13 mins (97.6%)
 
-✍️ 6,236 lines written by AI, 225 lines written by hand (96.52% AI-written)
+✍️ 6,097 lines written by AI, 225 lines written by hand (96.44% AI-written)
 
-🔤 110,501,249 Input Tokens, 4,669,456 Output Tokens
+🔤 104,318,973 Input Tokens, 4,415,480 Output Tokens
 
-💵 $2644.73 Estimated AI Cost This Week
+💵 $2517.51 Estimated AI Cost This Week
 
-🧠 281 AI Sessions, 1480 AI Prompts
+🧠 246 AI Sessions, 1356 AI Prompts
 
-GPT                      3,917 lines         ████████████████░░░░░░░░░   62.82 % 
-Kimi                     1,410 lines         ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-Codex-Vscode             908 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+GPT                      3,866 lines         ████████████████░░░░░░░░░   63.42 % 
+Kimi                     1,322 lines         █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Codex-Vscode             908 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.52% of written lines came from AI
-📚 Verbose Prompter — average 14,744 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.51% of changed lines were hand-edited
+🤖 AI-Driven — 96.44% of written lines came from AI
+📚 Verbose Prompter — average 15,110 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 3.59% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -140,7 +140,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 16:32:09 UTC
+ Last Updated on 25/09/2026 23:05:56 UTC
 <!--END_SECTION:waka-->
 
 <picture>
