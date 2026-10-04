@@ -82,47 +82,39 @@ Sunday                   710 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 16 mins       ██████████████░░░░░░░░░░░   57.47 % 
-Python                   1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Other                    1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-JSON                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Go                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Markdown                 1 hr 49 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 36 mins       █████████████░░░░░░░░░░░░   50.12 % 
-Codex Vscode             4 hrs 35 mins       ████████████░░░░░░░░░░░░░   49.88 % 
+Codex Vscode             1 hr 11 mins        ████████████████░░░░░░░░░   65.33 % 
+VS Code                  38 mins             █████████░░░░░░░░░░░░░░░░   34.67 % 
 
 🐱‍💻 Projects: 
-the_work_of_dedup        4 hrs 16 mins       ████████████░░░░░░░░░░░░░   46.55 % 
-new-chat                 1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-acm 模式题目积累               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-灵波比赛                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-机械臂                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+the_work_of_dedup        1 hr 45 mins        ████████████████████████░   96.01 % 
+acm 模式题目积累               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 💻 Operating System: 
-Mac                      9 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 11 mins (100.0%)
+⏱ AI Coding Time: 1 hr 49 mins (100.0%)
 
-✍️ 2,599 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 181 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,158,286 Input Tokens, 909,477 Output Tokens
+🔤 1,445,552 Input Tokens, 111,199 Output Tokens
 
-💵 $267.89 Estimated AI Cost This Week
+💵 $38.05 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 316 AI Prompts
+🧠 7 AI Sessions, 20 AI Prompts
 
-GPT                      2,596 lines         █████████████████████████   99.65 % 
-Codex-Vscode             9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+GPT                      181 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 12,807 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📚 Verbose Prompter — average 12,566 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -139,7 +131,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 19:12:16 UTC
+ Last Updated on 04/10/2026 22:45:26 UTC
 <!--END_SECTION:waka-->
 
 <picture>
