@@ -37,9 +37,9 @@ Embodied AI      VLA / world models        Cybersecurity AI
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-320%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-342%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,21 +58,21 @@ Embodied AI      VLA / world models        Cybersecurity AI
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                135 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-🌆 Daytime                201 commits         ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-🌃 Evening                286 commits         █████████░░░░░░░░░░░░░░░░   36.62 % 
-🌙 Night                  159 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+🌞 Morning                131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+🌆 Daytime                198 commits         ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+🌃 Evening                273 commits         █████████░░░░░░░░░░░░░░░░   36.06 % 
+🌙 Night                  155 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Tuesday                  75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Wednesday                155 commits         █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Thursday                 102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Friday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Saturday                 69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Sunday                   141 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Monday                   102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Tuesday                  69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Wednesday                153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Thursday                 98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Friday                   130 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Saturday                 66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Sunday                   139 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
 ```
 
 
@@ -141,7 +141,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 04:52:20 UTC
+ Last Updated on 06/10/2026 14:47:35 UTC
 <!--END_SECTION:waka-->
 
 <picture>
