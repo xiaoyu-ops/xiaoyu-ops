@@ -82,48 +82,51 @@ Sunday                   710 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   39.71 % 
-Python                   11 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-Markdown                 11 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-YAML                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Other                    15 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   37.84 % 
+Python                   12 hrs 48 mins      ████████░░░░░░░░░░░░░░░░░   30.87 % 
+Markdown                 9 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+YAML                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 Editors: 
-VS Code                  38 hrs 43 mins      ██████████████████████░░░   89.95 % 
-Codex Vscode             4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+VS Code                  35 hrs 53 mins      ██████████████████████░░░   86.50 % 
+Codex Vscode             4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Codex Exec               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Claude Code              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🐱‍💻 Projects: 
-the_work_of_dedup        37 hrs 9 mins       ██████████████████████░░░   86.33 % 
-机械臂                      2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-zhoupd                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Unknown Project          41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-export-all-of-my-stored-m25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+the_work_of_dedup        33 hrs 59 mins      ████████████████████░░░░░   81.94 % 
+机械臂                      2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+zhoupd                   1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Unknown Project          41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+T12_qa_robust            30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 💻 Operating System: 
-Mac                      43 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      41 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 hrs 2 mins (100.0%)
+⏱ AI Coding Time: 41 hrs 29 mins (100.0%)
 
-✍️ 14,082 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 13,246 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 77,317,491 Input Tokens, 9,705,870 Output Tokens
+🔤 80,423,686 Input Tokens, 9,903,351 Output Tokens
 
-💵 $4120.39 Estimated AI Cost This Week
+💵 $4213.20 Estimated AI Cost This Week
 
-🧠 222 AI Sessions, 982 AI Prompts
+🧠 231 AI Sessions, 888 AI Prompts
 
-GPT                      14,052 lines        █████████████████████████   99.77 % 
-Codex-Vscode             33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+GPT                      13,215 lines        █████████████████████████   99.75 % 
+Codex-Vscode             33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Kimi                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 15,888 characters per prompt
+📚 Verbose Prompter — average 16,010 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -141,7 +144,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 15:00:31 UTC
+ Last Updated on 09/10/2026 20:34:50 UTC
 <!--END_SECTION:waka-->
 
 <picture>
