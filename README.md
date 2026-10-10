@@ -82,51 +82,51 @@ Sunday                   710 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    15 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   37.84 % 
-Python                   12 hrs 48 mins      ████████░░░░░░░░░░░░░░░░░   30.87 % 
-Markdown                 9 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-YAML                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Other                    13 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   39.68 % 
+Python                   11 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   33.96 % 
+Markdown                 7 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-VS Code                  35 hrs 53 mins      ██████████████████████░░░   86.50 % 
-Codex Vscode             4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Codex Exec               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Claude Code              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+VS Code                  30 hrs 36 mins      ██████████████████████░░░   87.44 % 
+Codex Vscode             3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Codex Exec               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Claude Code              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🐱‍💻 Projects: 
-the_work_of_dedup        33 hrs 59 mins      ████████████████████░░░░░   81.94 % 
-机械臂                      2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-zhoupd                   1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Unknown Project          41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-T12_qa_robust            30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+the_work_of_dedup        30 hrs 15 mins      ██████████████████████░░░   86.46 % 
+机械臂                      1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Unknown Project          35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+T12_qa_robust            30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+T10_www_benchmark        28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 💻 Operating System: 
-Mac                      41 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 29 mins (100.0%)
+⏱ AI Coding Time: 35 hrs (100.0%)
 
-✍️ 13,246 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 10,368 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 80,423,686 Input Tokens, 9,903,351 Output Tokens
+🔤 65,064,666 Input Tokens, 8,180,040 Output Tokens
 
-💵 $4213.20 Estimated AI Cost This Week
+💵 $3979.05 Estimated AI Cost This Week
 
-🧠 231 AI Sessions, 888 AI Prompts
+🧠 193 AI Sessions, 682 AI Prompts
 
-GPT                      13,215 lines        █████████████████████████   99.75 % 
-Codex-Vscode             33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+GPT                      10,374 lines        █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Kimi                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 16,010 characters per prompt
+📚 Verbose Prompter — average 17,275 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -144,7 +144,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 14:14:43 UTC
+ Last Updated on 10/10/2026 19:46:27 UTC
 <!--END_SECTION:waka-->
 
 <picture>
