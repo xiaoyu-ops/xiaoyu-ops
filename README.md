@@ -37,9 +37,9 @@ Embodied AI      VLA / world models        Cybersecurity AI
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxiaoyu-ops&label=Profile%20Views&countColor=%23263759)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-344%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-344%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -82,53 +82,53 @@ Sunday                   710 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   37.57 % 
-Markdown                 7 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.15 % 
-Other                    7 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.02 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Python                   11 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   41.14 % 
+Other                    6 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+Markdown                 4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+JSON                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Bash                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 59 mins      ██████████████████████░░░   86.76 % 
-Codex Vscode             1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Codex Exec               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Claude Code              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Codex Exec               15 hrs 5 mins       █████████████░░░░░░░░░░░░   52.89 % 
+VS Code                  5 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Codex Vscode             3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Claude Code              3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 
 🐱‍💻 Projects: 
-the_work_of_dedup        20 hrs 52 mins      ██████████████████████░░░   86.31 % 
-机械臂                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-T12_qa_robust            30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-T10_www_benchmark        28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-zhoupd                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+the_work_of_dedup        7 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+T2_image                 5 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+T5_scaleup               3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+T7_method_scaled         1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+zhoupd                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 💻 Operating System: 
-Mac                      24 hrs 3 mins       █████████████████████████   99.47 % 
-Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Mac                      28 hrs 23 mins      █████████████████████████   99.55 % 
+Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 11 mins (100.0%)
+⏱ AI Coding Time: 28 hrs 31 mins (100.0%)
 
-✍️ 7,322 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,179 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 61,780,479 Input Tokens, 7,569,557 Output Tokens
+🔤 35,813,145 Input Tokens, 3,420,921 Output Tokens
 
-💵 $3948.86 Estimated AI Cost This Week
+💵 $1134.86 Estimated AI Cost This Week
 
-🧠 134 AI Sessions, 421 AI Prompts
+🧠 129 AI Sessions, 458 AI Prompts
 
-GPT                      7,328 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      5,407 lines         ███████████████████░░░░░░   75.31 % 
+Opus                     1,451 lines         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Kimi                     212 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Codex-Vscode             110 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Kimi                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 15,905 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 6,797 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -145,7 +145,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 17:22:23 UTC
+ Last Updated on 13/10/2026 01:50:04 UTC
 <!--END_SECTION:waka-->
 
 <picture>
