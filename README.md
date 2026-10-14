@@ -1,14 +1,15 @@
 # Hi, I'm Zhuoyang Wu / 吴卓阳
 
-> SYSU Cybersecurity junior · AI Agent builder · data systems & embodied AI explorer
+> Algorithm Engineer Intern @ DEXGEM Lab · SYSU Cybersecurity '27 · embodied AI & data systems
 
-I am a 2027 undergraduate student at the School of Cybersecurity, Sun Yat-sen University, based in Shenzhen. My current work sits around **AI Agents**, **LLM training-data systems**, and **Embodied AI** — especially VLA / world-model directions.
+I am a 2027 undergraduate student at the School of Cybersecurity, Sun Yat-sen University, based in Shenzhen. My current work sits around **Embodied AI** (VLA / world models), **LLM training-data systems**, and **AI Agents**.
 
 - 🌐 Personal homepage: **[blog.xiaoyu666.cyou](https://blog.xiaoyu666.cyou/)**
-- 🎓 SYSU Cybersecurity, Class of 2027 · GPA 3.66 / 5.0
-- 🧪 Research: **MMdedup**, a high-throughput multimodal data-cleaning / deduplication pipeline; paper under **ICDE** review
+- 🦾 Now: **Algorithm Engineer Intern @ DEXGEM Lab**
+- 🎓 SYSU Cybersecurity, Class of 2027 · GPA 3.8 / 4.0
+- 🧪 Research: **MMdedup**, a high-throughput multimodal data-cleaning / deduplication pipeline; papers under review at **DCC** and **WWW**
 - 🛡️ Previously at **Sangfor Technologies · Tianwen AI**, building rare TTP mining and clustering pipelines for self-evolving endpoint-security agents
-- 🤖 Exploring **AI Agent systems** and **Embodied AI** — from software agents to robotic arms
+- 🤖 Hands-on with **Embodied AI** — running ACT and π0.5 on SO-101 arms, building pick-and-place environments in Isaac Lab
 - ✍️ Writing notes and project logs on my homepage
 - 📫 Email: [wuzhuoyang252@gmail.com](mailto:wuzhuoyang252@gmail.com)
 
