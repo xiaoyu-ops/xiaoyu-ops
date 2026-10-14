@@ -83,53 +83,53 @@ Sunday                   710 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   40.31 % 
-Other                    7 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-Markdown                 5 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-JSON                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Bash                     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Python                   10 hrs 51 mins      ███████████░░░░░░░░░░░░░░   44.97 % 
+Other                    6 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+Markdown                 2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Bash                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+HTML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 
 🔥 Editors: 
-Codex Exec               15 hrs 5 mins       ████████████░░░░░░░░░░░░░   48.87 % 
-VS Code                  6 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Claude Code              5 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Codex Vscode             3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Codex Exec               15 hrs 5 mins       ████████████████░░░░░░░░░   62.42 % 
+Claude Code              5 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+VS Code                  2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Codex Vscode             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🐱‍💻 Projects: 
-the_work_of_dedup        7 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-T2_image                 5 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-T5_scaleup               3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-T7_method_scaled         1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-zhoupd                   1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+T2_image                 5 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+T5_scaleup               3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+the_work_of_dedup        2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+T7_method_scaled         1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+T8_downstream_qa         1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 💻 Operating System: 
-Mac                      30 hrs 44 mins      █████████████████████████   99.58 % 
-Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Mac                      24 hrs 2 mins       █████████████████████████   99.47 % 
+Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 51 mins (100.0%)
+⏱ AI Coding Time: 24 hrs 9 mins (100.0%)
 
-✍️ 7,297 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,102 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 37,784,479 Input Tokens, 3,667,544 Output Tokens
+🔤 32,661,540 Input Tokens, 3,104,571 Output Tokens
 
-💵 $1157.02 Estimated AI Cost This Week
+💵 $1002.99 Estimated AI Cost This Week
 
-🧠 125 AI Sessions, 454 AI Prompts
+🧠 89 AI Sessions, 237 AI Prompts
 
-GPT                      5,407 lines         ███████████████████░░░░░░   74.09 % 
-Opus                     1,569 lines         █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-Kimi                     212 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Codex-Vscode             110 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+GPT                      3,517 lines         █████████████████░░░░░░░░   68.92 % 
+Opus                     1,408 lines         ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+Kimi                     178 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,814 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 2,648 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -146,7 +146,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 16:32:51 UTC
+ Last Updated on 14/10/2026 23:00:32 UTC
 <!--END_SECTION:waka-->
 
 <picture>
