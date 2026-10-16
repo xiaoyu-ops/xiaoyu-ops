@@ -40,7 +40,7 @@ Embodied AI      VLA / world models        Cybersecurity AI
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-352%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-352%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -83,53 +83,53 @@ Sunday                   710 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.05 % 
-Python                   2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-Markdown                 2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-HTML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Other                    3 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.85 % 
+Markdown                 2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+Python                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+TeX                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 46 mins       ████████████████░░░░░░░░░   62.55 % 
-VS Code                  2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Codex Exec               2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Codex Vscode             30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Claude Code              6 hrs 49 mins       ██████████████████░░░░░░░   72.52 % 
+VS Code                  1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Codex Exec               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Codex Vscode             30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
 🐱‍💻 Projects: 
-the_work_of_dedup        2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-paper                    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-论文实验汇总                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-claude_www               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-agent                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+the_work_of_dedup        2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+paper                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+论文实验汇总                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+claude_www               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+agent                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
 
 💻 Operating System: 
-Mac                      12 hrs 18 mins      █████████████████████████   98.96 % 
-Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Mac                      9 hrs 17 mins       █████████████████████████   98.63 % 
+Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 25 mins (100.0%)
+⏱ AI Coding Time: 9 hrs 25 mins (100.0%)
 
-✍️ 3,051 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,214 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 20,953,719 Input Tokens, 1,812,686 Output Tokens
+🔤 15,643,701 Input Tokens, 1,223,590 Output Tokens
 
-💵 $524.16 Estimated AI Cost This Week
+💵 $387.60 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 187 AI Prompts
+🧠 32 AI Sessions, 121 AI Prompts
 
-GPT                      1,649 lines         █████████████░░░░░░░░░░░░   53.99 % 
-Opus                     1,405 lines         ████████████░░░░░░░░░░░░░   46.01 % 
+Opus                     1,334 lines         ███████████████░░░░░░░░░░   60.17 % 
+GPT                      883 lines           ██████████░░░░░░░░░░░░░░░   39.83 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Kimi                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,272 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 460 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -146,7 +146,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 16:05:07 UTC
+ Last Updated on 16/10/2026 22:32:36 UTC
 <!--END_SECTION:waka-->
 
 <picture>
