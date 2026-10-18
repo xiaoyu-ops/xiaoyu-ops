@@ -83,53 +83,52 @@ Sunday                   710 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.10 % 
-Markdown                 2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   32.65 % 
-Python                   56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-TeX                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Other                    3 hrs 11 mins       ███████████░░░░░░░░░░░░░░   43.80 % 
+Markdown                 2 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.81 % 
+Python                   56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+TeX                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 49 mins       ████████████████████░░░░░   80.36 % 
-VS Code                  1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Codex Vscode             30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Claude Code              5 hrs 52 mins       ████████████████████░░░░░   80.65 % 
+VS Code                  1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Codex Vscode             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-the_work_of_dedup        2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-paper                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-论文实验汇总                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-claude_www               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-agent                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+the_work_of_dedup        2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.30 % 
+paper                    1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+论文实验汇总                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+agent                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+claude_www               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 
 💻 Operating System: 
-Mac                      8 hrs 22 mins       █████████████████████████   98.48 % 
-Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Mac                      7 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 30 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 17 mins (100.0%)
 
-✍️ 1,630 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 907 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,968,333 Input Tokens, 1,081,877 Output Tokens
+🔤 5,814,930 Input Tokens, 576,906 Output Tokens
 
-💵 $341.25 Estimated AI Cost This Week
+💵 $63.61 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 113 AI Prompts
+🧠 22 AI Sessions, 97 AI Prompts
 
-Opus                     1,334 lines         ████████████████████░░░░░   81.69 % 
-GPT                      299 lines           █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     907 lines           █████████████████████████   99.67 % 
+GPT                      3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Kimi                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 443 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 326 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -146,7 +145,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 18:28:32 UTC
+ Last Updated on 18/10/2026 22:14:40 UTC
 <!--END_SECTION:waka-->
 
 <picture>
