@@ -42,7 +42,7 @@ Embodied AI      VLA / world models        Cybersecurity AI
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-352%20hrs%2030%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -134,17 +134,17 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ████████████████░░░░░░░░░   65.38 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   18 repos            █████████████████░░░░░░░░   66.67 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 21/10/2026 03:17:25 UTC
+ Last Updated on 21/10/2026 09:08:56 UTC
 <!--END_SECTION:waka-->
 
 <picture>
