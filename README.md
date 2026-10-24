@@ -83,41 +83,41 @@ Sunday                   710 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 11 mins       █████████████░░░░░░░░░░░░   52.71 % 
-Other                    4 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   31.17 % 
-Python                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-C                        35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Markdown                 8 hrs 11 mins       █████████████░░░░░░░░░░░░   52.80 % 
+Other                    4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   31.05 % 
+Python                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+C                        35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 57 mins      ██████████████████████░░░   89.89 % 
-Codex Exec               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-VS Code                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Claude Code              13 hrs 57 mins      ███████████████████████░░   90.05 % 
+Codex Exec               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+VS Code                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Projects: 
-scratch-2026-10-21-c2a1337 hrs 33 mins       ████████████░░░░░░░░░░░░░   48.69 % 
-paper                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-The-copy-about-the-obisid1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-restyle                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-agent                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+scratch-2026-10-21-c2a1337 hrs 33 mins       ████████████░░░░░░░░░░░░░   48.77 % 
+paper                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+The-copy-about-the-obisid1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+restyle                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+agent                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 
 💻 Operating System: 
-Mac                      15 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 30 mins (99.83%)
+⏱ AI Coding Time: 15 hrs 28 mins (99.83%)
 
 ✍️ 3,859 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,458,717 Input Tokens, 1,312,712 Output Tokens
+🔤 13,115,266 Input Tokens, 1,310,341 Output Tokens
 
-💵 $207.71 Estimated AI Cost This Week
+💵 $207.66 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 285 AI Prompts
+🧠 48 AI Sessions, 285 AI Prompts
 
 GPT                      2,484 lines         ████████████████░░░░░░░░░   63.86 % 
 Opus                     1,406 lines         █████████░░░░░░░░░░░░░░░░   36.14 % 
@@ -144,7 +144,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 18:37:49 UTC
+ Last Updated on 24/10/2026 22:16:04 UTC
 <!--END_SECTION:waka-->
 
 <picture>
