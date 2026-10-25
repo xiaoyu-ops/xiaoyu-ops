@@ -83,50 +83,49 @@ Sunday                   711 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 11 mins       █████████████░░░░░░░░░░░░   52.80 % 
-Other                    4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   31.05 % 
-Python                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-C                        35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Markdown                 7 hrs 26 mins       █████████████░░░░░░░░░░░░   50.61 % 
+Other                    4 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.38 % 
+Python                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+C                        35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 57 mins      ███████████████████████░░   90.05 % 
-Codex Exec               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-VS Code                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Claude Code              13 hrs 13 mins      ██████████████████████░░░   89.85 % 
+Codex Exec               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+VS Code                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 
 🐱‍💻 Projects: 
-scratch-2026-10-21-c2a1337 hrs 33 mins       ████████████░░░░░░░░░░░░░   48.77 % 
-paper                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-The-copy-about-the-obisid1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-restyle                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-agent                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+scratch-2026-10-21-c2a1337 hrs 33 mins       █████████████░░░░░░░░░░░░   51.38 % 
+The-copy-about-the-obisid1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+restyle                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+agent                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+dexstream_digital-assets 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 💻 Operating System: 
-Mac                      15 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 28 mins (99.83%)
+⏱ AI Coding Time: 14 hrs 41 mins (99.82%)
 
-✍️ 3,859 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,815 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,115,266 Input Tokens, 1,310,341 Output Tokens
+🔤 12,784,834 Input Tokens, 1,272,734 Output Tokens
 
-💵 $207.66 Estimated AI Cost This Week
+💵 $203.02 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 285 AI Prompts
+🧠 44 AI Sessions, 275 AI Prompts
 
-GPT                      2,484 lines         ████████████████░░░░░░░░░   63.86 % 
-Opus                     1,406 lines         █████████░░░░░░░░░░░░░░░░   36.14 % 
+GPT                      2,484 lines         ████████████████░░░░░░░░░   64.59 % 
+Opus                     1,362 lines         █████████░░░░░░░░░░░░░░░░   35.41 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 550 characters per prompt
+📄 Detailed Prompter — average 566 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -144,7 +143,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 18:45:46 UTC
+ Last Updated on 25/10/2026 22:19:13 UTC
 <!--END_SECTION:waka-->
 
 <picture>
