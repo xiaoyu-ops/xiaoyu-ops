@@ -83,50 +83,49 @@ Sunday                   707 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 51 mins      █████████████░░░░░░░░░░░░   50.19 % 
-Other                    7 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-Python                   2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Rust                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Markdown                 8 hrs 57 mins       ████████████░░░░░░░░░░░░░   49.20 % 
+Other                    6 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.64 % 
+Rust                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Python                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+C                        35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 21 mins      ███████████████████████░░   91.18 % 
-Codex Exec               1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-VS Code                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Claude Code              16 hrs 57 mins      ███████████████████████░░   93.13 % 
+Codex Exec               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🐱‍💻 Projects: 
-scratch-2026-10-21-c2a1338 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   34.67 % 
-The-copy-about-the-obisid2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-PI-Desktop               2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-the_work_of_dedup        2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-agent                    1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+scratch-2026-10-21-c2a1335 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.64 % 
+PI-Desktop               2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+the_work_of_dedup        2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+scratch-2026-10-26-49fce31 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+The-copy-about-the-obisid1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 💻 Operating System: 
-Mac                      25 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 34 mins (99.9%)
+⏱ AI Coding Time: 18 hrs 10 mins (99.85%)
 
-✍️ 7,572 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,406 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 15,626,227 Input Tokens, 1,972,449 Output Tokens
+🔤 12,901,849 Input Tokens, 1,412,666 Output Tokens
 
-💵 $301.83 Estimated AI Cost This Week
+💵 $235.14 Estimated AI Cost This Week
 
-🧠 63 AI Sessions, 419 AI Prompts
+🧠 41 AI Sessions, 322 AI Prompts
 
-GPT                      4,657 lines         ███████████████░░░░░░░░░░   60.48 % 
-Opus                     3,043 lines         ██████████░░░░░░░░░░░░░░░   39.52 % 
-K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      3,322 lines         ███████████████████░░░░░░   75.04 % 
+Opus                     1,105 lines         ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 592 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📄 Detailed Prompter — average 557 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -143,7 +142,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 17:55:50 UTC
+ Last Updated on 28/10/2026 23:55:55 UTC
 <!--END_SECTION:waka-->
 
 <picture>
