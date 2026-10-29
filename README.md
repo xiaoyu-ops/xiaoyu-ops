@@ -83,48 +83,48 @@ Sunday                   707 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 57 mins       ████████████░░░░░░░░░░░░░   49.20 % 
-Other                    6 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.64 % 
-Rust                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Python                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-C                        35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Other                    5 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.04 % 
+Markdown                 3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+Rust                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+C                        35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 57 mins      ███████████████████████░░   93.13 % 
-Codex Exec               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Claude Code              10 hrs 2 mins       ███████████████████████░░   92.46 % 
+Codex Exec               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🐱‍💻 Projects: 
-scratch-2026-10-21-c2a1335 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.64 % 
-PI-Desktop               2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-the_work_of_dedup        2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-scratch-2026-10-26-49fce31 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-The-copy-about-the-obisid1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+scratch-2026-10-21-c2a1332 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+PI-Desktop               2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+the_work_of_dedup        1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+scratch-2026-10-26-49fce31 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+restyle                  48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 
 💻 Operating System: 
-Mac                      18 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 10 mins (99.85%)
+⏱ AI Coding Time: 10 hrs 50 mins (99.75%)
 
-✍️ 4,406 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,874 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 12,901,849 Input Tokens, 1,412,666 Output Tokens
+🔤 6,328,458 Input Tokens, 682,123 Output Tokens
 
-💵 $235.14 Estimated AI Cost This Week
+💵 $116.39 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 322 AI Prompts
+🧠 22 AI Sessions, 175 AI Prompts
 
-GPT                      3,322 lines         ███████████████████░░░░░░   75.04 % 
-Opus                     1,105 lines         ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+GPT                      1,616 lines         █████████████████████░░░░   85.28 % 
+Opus                     279 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 557 characters per prompt
+📝 Concise Prompter — average 477 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -132,7 +132,7 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   21 repos            ██████████████████░░░░░░░   70.00 % 
+Python                   22 repos            ██████████████████░░░░░░░   73.33 % 
 Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
@@ -142,7 +142,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 14:59:05 UTC
+ Last Updated on 29/10/2026 20:54:28 UTC
 <!--END_SECTION:waka-->
 
 <picture>
