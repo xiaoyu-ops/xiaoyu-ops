@@ -83,49 +83,49 @@ Sunday                   707 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.22 % 
-Markdown                 2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.70 % 
-Rust                     1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Other                    2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.68 % 
+Markdown                 1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   34.87 % 
+Rust                     1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 25 mins       ████████████████████████░   96.02 % 
-Codex Exec               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Claude Code              5 hrs 25 mins       ████████████████████████░   97.27 % 
+Codex Exec               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🐱‍💻 Projects: 
-PI-Desktop               2 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   38.99 % 
-scratch-2026-10-26-49fce31 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-the_work_of_dedup        1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-fig1_citerag             31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-preview                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+PI-Desktop               2 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.51 % 
+scratch-2026-10-26-49fce31 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+the_work_of_dedup        1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+fig1_citerag             31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+preview                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 
 💻 Operating System: 
-Mac                      5 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 39 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 34 mins (100.0%)
 
-✍️ 838 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 747 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,823,136 Input Tokens, 347,765 Output Tokens
+🔤 1,647,704 Input Tokens, 328,879 Output Tokens
 
-💵 $56.81 Estimated AI Cost This Week
+💵 $55.02 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 94 AI Prompts
+🧠 13 AI Sessions, 93 AI Prompts
 
-GPT                      838 lines           █████████████████████████   100.00 % 
+GPT                      747 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 597 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 603 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -142,7 +142,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 16:49:56 UTC
+ Last Updated on 31/10/2026 23:05:50 UTC
 <!--END_SECTION:waka-->
 
 <picture>
